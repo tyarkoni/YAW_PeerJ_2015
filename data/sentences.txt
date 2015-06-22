@@ -1,0 +1,257 @@
+id	level	subcat	text	element_id	hardship_id	created_at	updated_at
+1	0		He records audio books for the blind as a volunteer activity.	2		2011-07-19 18:03:34	2011-07-19 18:03:34
+2	1		He almost never goes out with friends.	2		2011-07-19 18:03:34	2011-07-19 18:03:34
+3	2		He helps grow a community garden whose produce is for school lunches.	2		2011-07-19 18:03:34	2011-07-19 18:03:34
+4	3		He usually eats alone	2		2011-07-19 18:03:34	2011-07-19 18:03:34
+5	4		He helps build houses for Habitat for Humanity every summer.	2		2011-07-19 18:03:34	2011-07-19 18:03:34
+6	5		He has a pile of unpaid parking tickets	2		2011-07-19 18:03:34	2011-07-19 18:03:34
+7	6		He offers spare pocket change to the homeless.	2		2011-07-19 18:03:34	2011-07-19 18:03:34
+8	7		He likes to pick fights	2		2011-07-19 18:03:34	2011-07-19 18:03:34
+9	8		He does yard work for older neighbors.	2		2011-07-19 18:03:34	2011-07-19 18:03:34
+10	9		He has been arrested for shoplifting	2		2011-07-19 18:03:34	2011-07-19 18:03:34
+11	0		He has a hard time empathizing with other people's feelings	6		2011-07-19 18:03:34	2011-07-19 18:03:34
+12	1		He loves to laugh.	6		2011-07-19 18:03:34	2011-07-19 18:03:34
+13	2		He loses his temper easily	6		2011-07-19 18:03:34	2011-07-19 18:03:34
+14	3		He is friendly with everyone he meets.	6		2011-07-19 18:03:34	2011-07-19 18:03:34
+15	4		He has a reputation as somewhat a gossip	6		2011-07-19 18:03:34	2011-07-19 18:03:34
+16	5		He struggles to hold down a job as he tends to start fights with his coworkers and bosses.	6		2011-07-19 18:03:34	2011-07-19 18:03:34
+17	6		He is charming and lights up a social event easily.	6		2011-07-19 18:03:34	2011-07-19 18:03:34
+18	7		He is known for using profanity often.	6		2011-07-19 18:03:34	2011-07-19 18:03:34
+19	8		He has a reputation of being sincere and honest.	6		2011-07-19 18:03:34	2011-07-19 18:03:34
+20	9		He never forgets a birthday or to send a birthday card.	6		2011-07-19 18:03:34	2011-07-19 18:03:34
+21	0		He struggles with being on time to meetings.	3		2011-07-19 18:03:34	2011-07-19 18:03:34
+22	1		He is very responsible with his money.	3		2011-07-19 18:03:34	2011-07-19 18:03:34
+23	2		He often achieves his goals by planning well for them.	3		2011-07-19 18:03:34	2011-07-19 18:03:34
+24	3		He keeps secrets well and others confide in him often.	3		2011-07-19 18:03:34	2011-07-19 18:03:34
+25	4		He is very competitive and will do anything to further his own interests.	3		2011-07-19 18:03:34	2011-07-19 18:03:34
+26	5		Many of his successes in life have been due to his own hard work and effort.	3		2011-07-19 18:03:34	2011-07-19 18:03:34
+27	6		He is not very good at keeping his promises.	3		2011-07-19 18:03:34	2011-07-19 18:03:34
+28	7		He has a lot of credit card debt.	3		2011-07-19 18:03:34	2011-07-19 18:03:34
+29	8		He almost never replies to texts or missed calls.	3		2011-07-19 18:03:34	2011-07-19 18:03:34
+30	9		He wakes up every morning to read and journal.	3		2011-07-19 18:03:34	2011-07-19 18:03:34
+31	0		He did well in high school.	4		2011-07-19 18:03:34	2011-07-19 18:03:34
+32	1		He has a bachelor's degree.	4		2011-07-19 18:03:34	2011-07-19 18:03:35
+33	2		He took night classes to finish college despite his challenges.	4		2011-07-19 18:03:35	2011-07-19 18:03:35
+34	3		He takes continuing education courses at the local university.	4		2011-07-19 18:03:35	2011-07-19 18:03:35
+35	4		He has an associates's degree.	4		2011-07-19 18:03:35	2011-07-19 18:03:35
+36	5		He hopes to be given assistance to begin graduate school soon.	4		2011-07-19 18:03:35	2011-07-19 18:03:35
+37	6		He never finished high school	4		2011-07-19 18:03:35	2011-07-19 18:03:35
+38	7		He graduated college with a degree in economics	4		2011-07-19 18:03:35	2011-07-19 18:03:35
+39	8		He completed high school and is considering getting a bachelor's	4		2011-07-19 18:03:35	2011-07-19 18:03:35
+40	0		He is a server at a restaurant.	5		2011-07-19 18:03:35	2011-07-19 18:03:35
+41	1		He is a secretary at a local business office	5		2011-07-19 18:03:35	2011-07-19 18:03:35
+42	2		He is a clerk at a local grocery store.	5		2011-07-19 18:03:35	2011-07-19 18:03:35
+43	3		He teaches middle school physical education.	5		2011-07-19 18:03:35	2011-07-19 18:03:35
+44	4		He is a cook.	5		2011-07-19 18:03:35	2011-07-19 18:03:35
+45	5		He serves coffee at a bookstore.	5		2011-07-19 18:03:35	2011-07-19 18:03:35
+46	6		He is a groundskeeper for the local university.	5		2011-07-19 18:03:35	2011-07-19 18:03:35
+47	7		He manages a local call center.	5		2011-07-19 18:03:35	2011-07-19 18:03:35
+48	8		He teaches at the local community college.	5		2011-07-19 18:03:35	2011-07-19 18:03:35
+49	9		He runs a convenience store.	5		2011-07-19 18:03:35	2011-07-19 18:03:35
+50	10		He drives a taxi.	5		2011-07-19 18:03:35	2011-07-19 18:03:35
+51	11		He works at a hotel.	5		2011-07-19 18:03:35	2011-07-19 18:03:35
+52	12		He manages a local electronics store.	5		2011-07-19 18:03:35	2011-07-19 18:03:35
+53	13		He is a writer, with two published works of fiction.	5		2011-07-19 18:03:35	2011-07-19 18:03:35
+54	14		He manages an independent movie store that specializes in documentaries.	5		2011-07-19 18:03:35	2011-07-19 18:03:35
+55	15		He is an artist.	5		2011-07-19 18:03:35	2011-07-19 18:03:35
+56	16		He is a financial advisor.	5		2011-07-19 18:03:35	2011-07-19 18:03:35
+57	17		He works for a research firm that develops electric cars.	5		2011-07-19 18:03:35	2011-07-19 18:03:35
+58	18		He owns a popular restaurant.	5		2011-07-19 18:03:35	2011-07-19 18:03:35
+59	19		He is a technical support specialist.	5		2011-07-19 18:03:35	2011-07-19 18:03:35
+60	20		He is a massage therapist.	5		2011-07-19 18:03:35	2011-07-19 18:03:35
+61	0		He volunteers at the local Democratic headquarters.	7		2011-07-19 18:03:35	2011-07-19 18:03:35
+62	1		He canvasses for the Republican party two hours per week.	7		2011-07-19 18:03:35	2011-07-19 18:03:35
+63	2		He protests monthly with the local PETA (People for the Ethical Treatment of Animals) chapter.	7		2011-07-19 18:03:35	2011-07-19 18:03:35
+64	3		He attends peace rallies once a month.	7		2011-07-19 18:03:35	2011-07-19 18:03:35
+65	4		He loves to talk politics and has conservative opinions.	7		2011-07-19 18:03:35	2011-07-19 18:03:35
+66	5		He volunteers at Planned Parenthood 6 hours per week.	7		2011-07-19 18:03:35	2011-07-19 18:03:35
+67	6		He reads the New York Times every morning.	7		2011-07-19 18:03:35	2011-07-19 18:03:35
+68	7		He has a nightly ritual of watching Fox News before bed.	7		2011-07-19 18:03:35	2011-07-19 18:03:35
+69	8		He houses illegal immigrants while they look for housing.	7		2011-07-19 18:03:35	2011-07-19 18:03:35
+70	9		He is known to be very liberal politically.	7		2011-07-19 18:03:35	2011-07-19 18:03:35
+71	10		He helps run a pro-life grassroots campaign.	7		2011-07-19 18:03:35	2011-07-19 18:03:35
+72	11		He lobbies for the Libertarian Party.	7		2011-07-19 18:03:35	2011-07-19 18:03:35
+73	12		He often writes Letters to the Editor supporting the Green Party.	7		2011-07-19 18:03:35	2011-07-19 18:03:35
+74	0	M	He helped start a soup kitchen at his Mosque.	1		2011-07-19 18:03:35	2011-07-19 18:03:35
+75	1	M	He serves free vegetarian meals every Wednesday at his temple.	1		2011-07-19 18:03:35	2011-07-19 18:03:35
+76	2	M	He is a regular at the monthly American Atheists meeting.	1		2011-07-19 18:03:35	2011-07-19 18:03:35
+77	3	M	He helps at his spiritual center's weekly meditation-instruction groups.	1		2011-07-19 18:03:35	2011-07-19 18:03:35
+78	4	M	He hands out Buddhist pamphlets on college campuses.	1		2011-07-19 18:03:35	2011-07-19 18:03:35
+79	5	M	He joins other Hindu coworkers for daily morning prayers at his office.	1		2011-07-19 18:03:35	2011-07-19 18:03:35
+80	6	M	He secured a space for fellow Muslims at his job to pray throughout the day.	1		2011-07-19 18:03:35	2011-07-19 18:03:35
+81	0	B	He helped start a soup kitchen at his Mosque.	1		2011-07-19 18:03:35	2011-07-19 18:03:35
+82	1	B	He attends church every Sunday.	1		2011-07-19 18:03:35	2011-07-19 18:03:35
+83	2	B	He serves free vegetarian meals every Wednesday at his temple.	1		2011-07-19 18:03:35	2011-07-19 18:03:35
+84	3	B	He is a regular at the monthly American Atheists meeting.	1		2011-07-19 18:03:35	2011-07-19 18:03:35
+85	4	B	He helps set up his town's nativity scene every Winter.	1		2011-07-19 18:03:35	2011-07-19 18:03:35
+86	5	B	He secured a space for fellow Muslims at his job to pray throughout the day.	1		2011-07-19 18:03:35	2011-07-19 18:03:35
+87	6	B	He hands out Buddhist pamphlets on college campuses.	1		2011-07-19 18:03:35	2011-07-19 18:03:35
+88	7	B	He helps at his spiritual center's weekly meditation-instruction groups.	1		2011-07-19 18:03:35	2011-07-19 18:03:35
+89	0	A	He attends church every Sunday.	1		2011-07-19 18:03:35	2011-07-19 18:03:35
+90	1	A	He serves free vegetarian meals every Wednesday at his temple.	1		2011-07-19 18:03:35	2011-07-19 18:03:35
+91	2	A	He is a regular at the monthly American Atheists meeting.	1		2011-07-19 18:03:35	2011-07-19 18:03:35
+92	3	A	He helps set up his town's nativity scene every Winter.	1		2011-07-19 18:03:35	2011-07-19 18:03:35
+93	4	A	He helps at his spiritual center's weekly meditation-instruction groups.	1		2011-07-19 18:03:35	2011-07-19 18:03:35
+94	5	A	He hands out Buddhist pamphlets on college campuses.	1		2011-07-19 18:03:35	2011-07-19 18:03:35
+95	0	W	He attends church every Sunday.	1		2011-07-19 18:03:35	2011-07-19 18:03:35
+96	1	W	He is an active member of his Jewish community	1		2011-07-19 18:03:35	2011-07-19 18:03:35
+97	2	W	He serves free vegetarian meals every Wednesday at his temple.	1		2011-07-19 18:03:35	2011-07-19 18:03:35
+98	3	W	He is a regular at the monthly American Atheists meeting.	1		2011-07-19 18:03:35	2011-07-19 18:03:35
+99	4	W	He helps set up his town's nativity scene every Winter.	1		2011-07-19 18:03:35	2011-07-19 18:03:35
+100	5	W	He helps at his spiritual center's weekly meditation-instruction groups.	1		2011-07-19 18:03:35	2011-07-19 18:03:35
+101	6	W	He hands out Buddhist pamphlets on college campuses.	1		2011-07-19 18:03:35	2011-07-19 18:03:35
+102	7	W	He organizes Jewish ritual dinners for his community.	1		2011-07-19 18:03:35	2011-07-19 18:03:35
+103	0	L	He attends church every Sunday.	1		2011-07-19 18:03:35	2011-07-19 18:03:35
+104	1	L	He serves free vegetarian meals every Wednesday at his temple.	1		2011-07-19 18:03:35	2011-07-19 18:03:35
+105	2	L	He is a regular at the monthly American Atheists meeting.	1		2011-07-19 18:03:35	2011-07-19 18:03:35
+106	3	L	He helps set up his town's nativity scene every Winter.	1		2011-07-19 18:03:35	2011-07-19 18:03:35
+107	4	L	He hands out Buddhist pamphlets on college campuses.	1		2011-07-19 18:03:35	2011-07-19 18:03:35
+108	5	L	He helps at his spiritual center's weekly meditation-instruction groups.	1		2011-07-19 18:03:35	2011-07-19 18:03:35
+109	0	I	He serves free vegetarian meals every Wednesday at his temple.	1		2011-07-19 18:03:35	2011-07-19 18:03:35
+110	1	I	He is a regular at the monthly American Atheists meeting.	1		2011-07-19 18:03:35	2011-07-19 18:03:35
+111	2	I	He helps at his spiritual center's weekly meditation-instruction groups.	1		2011-07-19 18:03:35	2011-07-19 18:03:35
+112	3	I	He hands out Buddhist pamphlets on college campuses.	1		2011-07-19 18:03:35	2011-07-19 18:03:35
+113	4	I	He joins other Hindu coworkers for daily morning prayers at his office.	1		2011-07-19 18:03:35	2011-07-19 18:03:35
+114	5	I	He secured a space for fellow Muslims at his job to pray throughout the day.	1		2011-07-19 18:03:35	2011-07-19 18:03:35
+115	0		he became addicted after a major surgery	8	1	2011-07-19 18:03:35	2011-07-19 18:03:35
+116	1		he uses them nightly to help him fall asleep	8	1	2011-07-19 18:03:35	2011-07-19 18:03:35
+117	2		he likes when he can't feel anything	8	1	2011-07-19 18:03:35	2011-07-19 18:03:35
+118	0		he realizes that his addiction isn't the best thing for him	9	1	2011-07-19 18:03:35	2011-07-19 18:03:35
+119	1		he doesn't think he will be able to break his habit	9	1	2011-07-19 18:03:35	2011-07-19 18:03:35
+120	2		he is not sure if he is ready for what it will take to quit	9	1	2011-07-19 18:03:35	2011-07-19 18:03:35
+121	0		he feels trapped by his addiction	10	1	2011-07-19 18:03:35	2011-07-19 18:03:35
+122	1		despite his addiction, he feels like he can still live life	10	1	2011-07-19 18:03:35	2011-07-19 18:03:35
+123	2		his addiction has created divisions in his family	10	1	2011-07-19 18:03:35	2011-07-19 18:03:35
+124	0		he was a heavy cigarette smoker for many years	8	2	2011-07-19 18:03:35	2011-07-19 18:03:35
+125	1		he only smoked cigarettes on weekends when he went out in high-school and college	8	2	2011-07-19 18:03:35	2011-07-19 18:03:35
+126	2		he worked in a coal mine for many years	8	2	2011-07-19 18:03:35	2011-07-19 18:03:35
+127	0		they caught his cancer in the very early stages, and treatment could add years to his life	9	2	2011-07-19 18:03:35	2011-07-19 18:03:35
+128	1		his cancer is spreading	9	2	2011-07-19 18:03:35	2011-07-19 18:03:35
+129	2		he still performs everyday tasks in spite of his diagnosis	10	2	2011-07-19 18:03:35	2011-07-19 18:03:35
+130	0		he has had to change the way he lives because he now needs an oxygen tank with him at all times	10	2	2011-07-19 18:03:35	2011-07-19 18:03:35
+131	1		he also had to have his vocal cords removed, which has been very upsetting for him	10	2	2011-07-19 18:03:35	2011-07-19 18:03:36
+132	2		he hasn't let his diagnosis get him down	10	2	2011-07-19 18:03:36	2011-07-19 18:03:36
+133	0		he was hit by a drunk driver	8	3	2011-07-19 18:03:36	2011-07-19 18:03:36
+134	1		he ran a red light and got hit by a truck	8	3	2011-07-19 18:03:36	2011-07-19 18:03:36
+135	2		he lost control of his car, then hit a tree	8	3	2011-07-19 18:03:36	2011-07-19 18:03:36
+136	0		he doesn't have the money to pay for his medical bills	9	3	2011-07-19 18:03:36	2011-07-19 18:03:36
+137	1		his insurance paid for his operation	9	3	2011-07-19 18:03:36	2011-07-19 18:03:36
+138	2		his insurance only covered part of his medical bills	9	3	2011-07-19 18:03:36	2011-07-19 18:03:36
+139	0		he is sad that he can't play catch with his kids anymore	10	3	2011-07-19 18:03:36	2011-07-19 18:03:36
+140	1		he has emotionally made peace with the accident	10	3	2011-07-19 18:03:36	2011-07-19 18:03:36
+141	2		He is constantly frustrated that everyday tasks are now more difficult	10	3	2011-07-19 18:03:36	2011-07-19 18:03:36
+142	0		his mother also had schizophrenia	8	4	2011-07-19 18:03:36	2011-07-19 18:03:36
+143	1		he is the first person documented in his family to have had schizophrenia	8	4	2011-07-19 18:03:36	2011-07-19 18:03:36
+144	2		he became schizophrenic after returning from military service	8	4	2011-07-19 18:03:36	2011-07-19 18:03:36
+145	0		none the less, he has been able to maintain his part-time job	9	4	2011-07-19 18:03:36	2011-07-19 18:03:36
+146	1		he hasn't been able to hold a job	9	4	2011-07-19 18:03:36	2011-07-19 18:03:36
+147	2		his symptoms occur only occasionally and usually for less than a day at a time	9	4	2011-07-19 18:03:36	2011-07-19 18:03:36
+148	0		outside of his episodes, he lives a normal life	10	4	2011-07-19 18:03:36	2011-07-19 18:03:36
+149	1		his family is very worried about him	10	4	2011-07-19 18:03:36	2011-07-19 18:03:36
+150	0		he contracted the disease from a dirty penicillin needle in a doctor's office abroad	8	5	2011-07-19 18:03:36	2011-07-19 18:03:36
+151	1		he contracted HIV from his significant other because he didn't know they had it	8	5	2011-07-19 18:03:36	2011-07-19 18:03:36
+152	2		he slept with someone he didn't know	8	5	2011-07-19 18:03:36	2011-07-19 18:03:36
+153	0		he doesn't have the money to afford treatments	9	5	2011-07-19 18:03:36	2011-07-19 18:03:36
+154	1		he takes the daily pills necessary to prolong his life	9	5	2011-07-19 18:03:36	2011-07-19 18:03:36
+155	2		he got tested soon after becoming infected, so they have been able to keep the disease in its early stages	9	5	2011-07-19 18:03:36	2011-07-19 18:03:36
+156	0		he is confused about what to make of his diagnosis	10	5	2011-07-19 18:03:36	2011-07-19 18:03:36
+157	1		he feels like his life is over	10	5	2011-07-19 18:03:36	2011-07-19 18:03:36
+158	2		he is worried because he doesn't know where his life will go from here	10	5	2011-07-19 18:03:36	2011-07-19 18:03:36
+159	0		he was paralyzed in a car accident	8	6	2011-07-19 18:03:36	2011-07-19 18:03:36
+160	1		he was paralyzed when a piece of shrapnel hit him in the spine when he was on a tour of duty	8	6	2011-07-19 18:03:36	2011-07-19 18:03:36
+161	2		he became paralyzed due to trauma from a tumor	8	6	2011-07-19 18:03:36	2011-07-19 18:03:36
+162	0		he is still able to perform well enough to hold his job from before his paralysis	9	6	2011-07-19 18:03:36	2011-07-19 18:03:36
+163	1		his insurance isn't helping him enough for him to live the way he needs to	9	6	2011-07-19 18:03:36	2011-07-19 18:03:36
+164	2		his insurance covered everything	9	6	2011-07-19 18:03:36	2011-07-19 18:03:36
+165	0		he is upset because he doesn't think he can be the same person to his spouse anymore	10	6	2011-07-19 18:03:36	2011-07-19 18:03:36
+166	1		he is handling the adjustment to his new lifestyle well	10	6	2011-07-19 18:03:36	2011-07-19 18:03:36
+167	2		he is frustrated that he can't do many of the things that he used to	10	6	2011-07-19 18:03:36	2011-07-19 18:03:36
+168	0		tornados often strike his town and had previously destroyed neighbors' homes	8	8	2011-07-19 18:03:36	2011-07-19 18:03:36
+169	1		he thought his house was built to withstand tornadoes	8	8	2011-07-19 18:03:36	2011-07-19 18:03:36
+170	2		he was able to save his essential belongings by evacuating the area	8	8	2011-07-19 18:03:36	2011-07-19 18:03:36
+171	0		he needs a few months rent to get back on his feet	9	8	2011-07-19 18:03:36	2011-07-19 18:03:36
+172	1		he still has his job, and just needs temporary housing until he can find a new home	9	8	2011-07-19 18:03:36	2011-07-19 18:03:36
+173	0		he is not optimistic about what the future holds	10	8	2011-07-19 18:03:36	2011-07-19 18:03:36
+174	1		he is optimistic about the future and has started rebuilding	10	8	2011-07-19 18:03:36	2011-07-19 18:03:36
+175	0		he was out of town when the flood hit	8	9	2011-07-19 18:03:36	2011-07-19 18:03:36
+176	1		their house was in a high area that had never been flooded before	8	9	2011-07-19 18:03:36	2011-07-19 18:03:36
+177	2		he was the only person in the family who could swim	8	9	2011-07-19 18:03:36	2011-07-19 18:03:36
+178	0		his spouse was the main bread-winner so the flood has also made things hard for him financially	9	9	2011-07-19 18:03:36	2011-07-19 18:03:36
+179	1		he didn't have home-owners insurance, so is now having trouble with his living situation	9	9	2011-07-19 18:03:36	2011-07-19 18:03:36
+180	2		a network of friends has provided for his needs	9	9	2011-07-19 18:03:36	2011-07-19 18:03:36
+181	0		he has sunk into depression since the disaster	10	9	2011-07-19 18:03:36	2011-07-19 18:03:36
+182	1		he finished grieving and has recently remarried	10	9	2011-07-19 18:03:36	2011-07-19 18:03:36
+183	2		the flood destroyed his life as he knew it.	10	9	2011-07-19 18:03:36	2011-07-19 18:03:36
+184	0		irreparable damage was done to his ears during reckless horseplay with his friends when he was young	8	10	2011-07-19 18:03:36	2011-07-19 18:03:36
+185	1		irreparable damage was done to his ears in a childhood accident	8	10	2011-07-19 18:03:36	2011-07-19 18:03:36
+186	2		contaminated prescription drugs made him go deaf	8	10	2011-07-19 18:03:36	2011-07-19 18:03:36
+187	0		cochlear implants would partially restore his hearing	9	10	2011-07-19 18:03:36	2011-07-19 18:03:36
+188	1		a hearing aid would allow him to hear minimally, but he can't afford it	9	10	2011-07-19 18:03:36	2011-07-19 18:03:36
+189	2		there is nothing that can be done to improve his hearing	9	10	2011-07-19 18:03:36	2011-07-19 18:03:36
+190	0		he hates not being able to hear	10	10	2011-07-19 18:03:36	2011-07-19 18:03:36
+191	1		it upsets him that he can't hear his spouse's voice anymore	10	10	2011-07-19 18:03:36	2011-07-19 18:03:36
+192	2		he says the silence is peaceful	10	10	2011-07-19 18:03:36	2011-07-19 18:03:36
+193	0		he was almost killed while serving in the military	8	11	2011-07-19 18:03:36	2011-07-19 18:03:37
+194	1		he took multiple lives while serving in the military	8	11	2011-07-19 18:03:37	2011-07-19 18:03:37
+195	2		he watched his best friend die while serving in the military	8	11	2011-07-19 18:03:37	2011-07-19 18:03:37
+196	0		he has not been the same since returning home from his tour, despite efforts at treatment	9	11	2011-07-19 18:03:37	2011-07-19 18:03:37
+197	1		he is slowly returning to his old self since returning home from his tour of duty	9	11	2011-07-19 18:03:37	2011-07-19 18:03:37
+198	2		therapy and medication would help rehabilitate him	9	11	2011-07-19 18:03:37	2011-07-19 18:03:37
+199	0		since returning home from his tour, he has seemed detached from the world	10	11	2011-07-19 18:03:37	2011-07-19 18:03:37
+200	1		since returning home from his tour, he has had difficulty concentrating, which frustrates him	10	11	2011-07-19 18:03:37	2011-07-19 18:03:37
+201	2		since returning home from his tour, he has exhibited exaggerated awareness, which has made him constantly anxious	10	11	2011-07-19 18:03:37	2011-07-19 18:03:37
+202	0		he never used sunscreen	8	12	2011-07-19 18:03:37	2011-07-19 18:03:37
+203	1		an irregular mole turned out to be cancerous	8	12	2011-07-19 18:03:37	2011-07-19 18:03:37
+204	2		his grandmother died of skin cancer as well	8	12	2011-07-19 18:03:37	2011-07-19 18:03:37
+205	0		they caught the cancer early	9	12	2011-07-19 18:03:37	2011-07-19 18:03:37
+206	1		the cancer is in an intermediate stage	9	12	2011-07-19 18:03:37	2011-07-19 18:03:37
+207	2		chemotherapy seems to be helping	9	12	2011-07-19 18:03:37	2011-07-19 18:03:37
+208	0		the diagnosis has only made him think of pain and suffering	10	12	2011-07-19 18:03:37	2011-07-19 18:03:37
+209	1		he is confident that he can beat the cancer	10	12	2011-07-19 18:03:37	2011-07-19 18:03:37
+210	2		he is worried about what will come next	10	12	2011-07-19 18:03:37	2011-07-19 18:03:37
+211	0		he was born with diabetes	8	13	2011-07-19 18:03:37	2011-07-19 18:03:37
+212	1		his high blood pressure lead to the disorder	8	13	2011-07-19 18:03:37	2011-07-19 18:03:37
+213	2		he lead an unhealthy lifestyle, which has resulted in the disorder	8	13	2011-07-19 18:03:37	2011-07-19 18:03:37
+214	0		changes to his diet have helped prolong his life	9	13	2011-07-19 18:03:37	2011-07-19 18:03:37
+215	1		he continues to eat unhealthy food, making his condition worse	9	13	2011-07-19 18:03:37	2011-07-19 18:03:37
+216	2		he is unsure of whether or not he is willing to make the lifestyle change to prolong his life	9	13	2011-07-19 18:03:37	2011-07-19 18:03:37
+217	0		he is constantly plagued with the thought of death	10	13	2011-07-19 18:03:37	2011-07-19 18:03:37
+218	1		he is not afraid of an early death	10	13	2011-07-19 18:03:37	2011-07-19 18:03:37
+219	2		it worries him to think of what his family would do without him	10	13	2011-07-19 18:03:37	2011-07-19 18:03:37
+220	0		he lost a limb when he went against his commanding officer's orders in an operation	8	14	2011-07-19 18:03:37	2011-07-19 18:03:37
+221	1		he lost a limb when a roadside bomb went off	8	14	2011-07-19 18:03:37	2011-07-19 18:03:37
+222	2		his limb was shredded by gunfire	8	14	2011-07-19 18:03:37	2011-07-19 18:03:37
+223	0		despite the amputation, he is still able to walk due to a prostetic	9	14	2011-07-19 18:03:37	2011-07-19 18:03:37
+224	1		he is now in a wheelchair	9	14	2011-07-19 18:03:37	2011-07-19 18:03:37
+225	1		he his commitment to physical therapy has helped his situation	9	14	2011-07-19 18:03:37	2011-07-19 18:03:37
+226	0		he constantly feels regret over what happened to him	10	14	2011-07-19 18:03:37	2011-07-19 18:03:37
+227	1		he is proud of what happened because he was serving his country	10	14	2011-07-19 18:03:37	2011-07-19 18:03:37
+228	2		he is saddened because his entire way of life has changed	10	14	2011-07-19 18:03:37	2011-07-19 18:03:37
+229	3		the amputation process didn't go well and his limb became infected	10	14	2011-07-19 18:03:37	2011-07-19 18:03:37
+230	0		his parents weren't around much and he didn't have much guidance growing up	8	15	2011-07-19 18:03:37	2011-07-19 18:03:37
+231	1		he started taking amphetamines to add excitement to his life	8	15	2011-07-19 18:03:37	2011-07-19 18:03:37
+232	2		he grew up in a drug infested neighborhood	8	15	2011-07-19 18:03:37	2011-07-19 18:03:37
+233	0		he wants to shake his addiction	9	15	2011-07-19 18:03:37	2011-07-19 18:03:37
+234	1		a detox program could allow him to break the habit	9	15	2011-07-19 18:03:37	2011-07-19 18:03:37
+235	2		he wants to kick his habit but doesn't know how	9	15	2011-07-19 18:03:37	2011-07-19 18:03:37
+236	0		he has figured out a way to get by in life despite his addiction	10	15	2011-07-19 18:03:37	2011-07-19 18:03:37
+237	1		he has figured that there is no way to stop, so has made peace with his addiction	10	15	2011-07-19 18:03:37	2011-07-19 18:03:37
+238	2		he is constantly troubled with the thought of when and where he will get more amphetamines	10	15	2011-07-19 18:03:37	2011-07-19 18:03:37
+239	0		alcoholism runs in his family	8	7	2011-07-19 18:03:37	2011-07-19 18:03:37
+240	1		his mother drank while she was pregnant with him	8	7	2011-07-19 18:03:37	2011-07-19 18:03:37
+241	2		he turned to alcohol to avoid dealing with deeper emotional issues	8	7	2011-07-19 18:03:37	2011-07-19 18:03:37
+242	0		he is committed to curbing his addiction	9	7	2011-07-19 18:03:37	2011-07-19 18:03:37
+243	1		he is tried quitting before but his willpower has always failed	9	7	2011-07-19 18:03:37	2011-07-19 18:03:37
+244	2		ten step programs for quitting have a great track record of helping people like him	9	7	2011-07-19 18:03:37	2011-07-19 18:03:37
+245	0		he often drinks to the point of vomitting and passing out	10	7	2011-07-19 18:03:37	2011-07-19 18:03:37
+246	1		his family is constantly troubled about his well being	10	7	2011-07-19 18:03:37	2011-07-19 18:03:37
+247	2		his drinking has ruined many of his close personal relationships	10	7	2011-07-19 18:03:37	2011-07-19 18:03:37
+248	0		he drank heavily for many years	8	16	2011-07-19 18:03:37	2011-07-19 18:03:37
+249	1		cancer runs in his family	8	16	2011-07-19 18:03:37	2011-07-19 18:03:37
+250	2		he never drank alcohol, because his father died of liver cancer, but got it anyways	8	16	2011-07-19 18:03:37	2011-07-19 18:03:37
+251	0		there are proven treatments for extending his life	9	16	2011-07-19 18:03:37	2011-07-19 18:03:37
+252	1		the cancer is spreading and not much can be done	9	16	2011-07-19 18:03:38	2011-07-19 18:03:38
+253	2		initial treatments seem to be helping	9	16	2011-07-19 18:03:38	2011-07-19 18:03:38
+254	0		the diagnosis has put him into a deep depression	10	16	2011-07-19 18:03:38	2011-07-19 18:03:38
+255	1		he is plagued by extreme anxiety about his health	10	16	2011-07-19 18:03:38	2011-07-19 18:03:38
+256	2		his family has been loving and supportive during this ordeal	10	16	2011-07-19 18:03:38	2011-07-19 18:03:38

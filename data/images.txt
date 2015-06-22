@@ -1,0 +1,41 @@
+id	file	ethnicity_id	gender	attribution	created_at	updated_at
+1	A1.gif	1	1	Psychological Image Collection at Stirling	2011-07-19 18:03:38	2011-07-19 18:03:38
+2	A2.gif	1	1	Psychological Image Collection at Stirling	2011-07-19 18:03:38	2011-07-19 18:03:38
+3	A3.gif	1	1	Psychological Image Collection at Stirling	2011-07-19 18:03:38	2011-07-19 18:03:38
+4	A4.gif	1	1	Psychological Image Collection at Stirling	2011-07-19 18:03:38	2011-07-19 18:03:38
+5	A5.jpg	1	1	The MUCT Face Database	2011-07-19 18:03:38	2011-07-19 18:03:38
+6	A6.jpg	1	1	American Cancer Society	2011-07-19 18:03:38	2011-07-19 18:03:38
+7	A7.jpg	1	1	American Cancer Society	2011-07-19 18:03:38	2011-07-19 18:03:38
+8	A8.jpg	1	1	sparktography on flickr	2011-07-19 18:03:38	2011-07-19 18:03:38
+9	A9.jpg	1	1	Riggzy on flickr	2011-07-19 18:03:38	2011-07-19 18:03:38
+10	A10.jpg	1	1	Michael McDonough	2011-07-19 18:03:38	2011-07-19 18:03:38
+11	B1.jpg	2	1	RussellReno	2011-07-19 18:03:38	2011-07-19 18:03:38
+12	B2.jpg	2	1	The MUCT Face Database	2011-07-19 18:03:38	2011-07-19 18:03:38
+13	B3.jpg	2	1	The MUCT Face Database	2011-07-19 18:03:38	2011-07-19 18:03:38
+14	B4.jpg	2	1	The MUCT Face Database	2011-07-19 18:03:38	2011-07-19 18:03:38
+15	B5.jpg	2	1	American Cancer Society	2011-07-19 18:03:38	2011-07-19 18:03:38
+16	B6.jpg	2	1	United Way of Greater St. Louis	2011-07-19 18:03:38	2011-07-19 18:03:38
+17	B7.jpg	2	1	shannonkringen on flickr	2011-07-19 18:03:38	2011-07-19 18:03:38
+18	B8.jpg	2	1	United Way of Greater St. Louis	2011-07-19 18:03:38	2011-07-19 18:03:38
+19	B9.jpg	2	1	Lady J Photo Gallery	2011-07-19 18:03:38	2011-07-19 18:03:38
+20	B10.jpg	2	1	D.B.Blas on flickr	2011-07-19 18:03:38	2011-07-19 18:03:38
+21	C1.gif	1	0	Psychological Image Collection at Stirling	2011-07-19 18:03:38	2011-07-19 18:03:38
+22	C2.gif	1	0	Psychological Image Collection at Stirling	2011-07-19 18:03:38	2011-07-19 18:03:38
+23	C3.gif	1	0	Psychological Image Collection at Stirling	2011-07-19 18:03:38	2011-07-19 18:03:38
+24	C4.jpg	1	0	The MUCT Face Database	2011-07-19 18:03:38	2011-07-19 18:03:38
+25	C5.jpg	1	0	Rochelle	2011-07-19 18:03:38	2011-07-19 18:03:38
+26	C6.jpg	1	0	Paul Stevenson	2011-07-19 18:03:38	2011-07-19 18:03:38
+27	C7.jpg	1	0	migraines2000 on flickr	2011-07-19 18:03:38	2011-07-19 18:03:38
+28	C8.jpg	1	0	Tojosan on flickr	2011-07-19 18:03:38	2011-07-19 18:03:38
+29	C9.jpg	1	0	chdxx on flickr	2011-07-19 18:03:38	2011-07-19 18:03:38
+30	C10.jpg	1	0	shannonkringen on flickr	2011-07-19 18:03:38	2011-07-19 18:03:38
+31	D1.jpg	2	0	Lauren Powell-Smothers	2011-07-19 18:03:38	2011-07-19 18:03:38
+32	D2.jpg	2	0	United Way of Greater St. Louis	2011-07-19 18:03:38	2011-07-19 18:03:38
+33	D3.jpg	2	0	bamalibrarylady on flickr	2011-07-19 18:03:38	2011-07-19 18:03:38
+34	D4.jpg	2	0	MHBaker on flickr	2011-07-19 18:03:38	2011-07-19 18:03:38
+35	D5.jpg	2	0	Steve Schwartz	2011-07-19 18:03:38	2011-07-19 18:03:38
+36	D6.jpg	2	0	yooperann on flickr	2011-07-19 18:03:38	2011-07-19 18:03:38
+37	D7.jpg	2	0	Georgia Tech Face Database	2011-07-19 18:03:38	2011-07-19 18:03:38
+38	D8.jpg	2	0	The MUCT Face Database	2011-07-19 18:03:38	2011-07-19 18:03:38
+39	D9.jpg	2	0	Jess Rivera on flickr	2011-07-19 18:03:38	2011-07-19 18:03:38
+40	D10.jpg	2	0	Gakige on flickr	2011-07-19 18:03:38	2011-07-19 18:03:38

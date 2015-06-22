@@ -1,0 +1,388 @@
+id	race	religion	gender	marital	age	survey_id	created_at	updated_at
+1	Asian or Pacific Islander					2	2011-07-19 18:13:57	2011-07-19 18:13:57
+2	White (not of Hispanic origin)	Atheist	Male		35	3	2011-07-19 18:20:21	2011-07-19 18:20:21
+3	White (not of Hispanic origin)	Christian	Female		19	6	2011-07-19 18:20:57	2011-07-19 18:20:57
+4	White (not of Hispanic origin)	Jewish	Female		34	4	2011-07-19 18:21:02	2011-07-19 18:21:02
+5	White (not of Hispanic origin)	Christian	Male		41	7	2011-07-19 18:21:30	2011-07-19 18:21:30
+6	Hispanic	Christian	Female		21	9	2011-07-19 18:22:11	2011-07-19 18:22:11
+7	Black (not of Hispanic origin)	Christian	Female		35	15	2011-07-19 18:25:01	2011-07-19 18:25:01
+8	White (not of Hispanic origin)	Atheist	Female		20	17	2011-07-19 18:29:01	2011-07-19 18:29:01
+9	Asian or Pacific Islander	Atheist	Female		22	22	2011-07-19 18:31:34	2011-07-19 18:31:34
+10	White (not of Hispanic origin)	Jewish	Male		41	24	2011-07-19 18:31:43	2011-07-19 18:31:43
+11	Asian or Pacific Islander	Atheist	Male		28	23	2011-07-19 18:32:13	2011-07-19 18:32:13
+12	Asian or Pacific Islander	Other	Female		34	26	2011-07-19 18:32:32	2011-07-19 18:32:32
+13	Asian or Pacific Islander	Hindu	Male		28	25	2011-07-19 18:33:44	2011-07-19 18:33:44
+14	Hispanic	Christian	Female		28	21	2011-07-19 18:34:12	2011-07-19 18:34:12
+15	White (not of Hispanic origin)	Atheist	Female		28	28	2011-07-19 18:38:44	2011-07-19 18:38:44
+16	White (not of Hispanic origin)	Atheist	Male		21	27	2011-07-19 18:39:04	2011-07-19 18:39:04
+17	Black (not of Hispanic origin)	Christian	Female		31	29	2011-07-19 18:39:51	2011-07-19 18:39:51
+18	White (not of Hispanic origin)	Christian	Female		55	30	2011-07-19 18:41:03	2011-07-19 18:41:03
+19	White (not of Hispanic origin)	Atheist	Female		25	32	2011-07-19 18:46:14	2011-07-19 18:46:14
+20	White (not of Hispanic origin)	Christian	Female		25	31	2011-07-19 18:46:28	2011-07-19 18:46:28
+21	White (not of Hispanic origin)	Christian	Female		46	36	2011-07-19 18:47:55	2011-07-19 18:47:55
+22	White (not of Hispanic origin)	Christian	Female		40	34	2011-07-19 18:49:37	2011-07-19 18:49:37
+23	White (not of Hispanic origin)	Atheist	Male		24	38	2011-07-19 18:53:27	2011-07-19 18:53:27
+24	White (not of Hispanic origin)	Atheist	Female		24	40	2011-07-19 18:54:39	2011-07-19 18:54:39
+25	Asian or Pacific Islander	Christian	Female		38	41	2011-07-19 18:59:03	2011-07-19 18:59:03
+26	White (not of Hispanic origin)	Christian	Female		44	43	2011-07-19 19:04:30	2011-07-19 19:04:30
+27	White (not of Hispanic origin)	Atheist	Female		26	45	2011-07-19 19:05:59	2011-07-19 19:05:59
+28	White (not of Hispanic origin)	Christian	Female		43	44	2011-07-19 19:07:11	2011-07-19 19:07:11
+29	White (not of Hispanic origin)	Christian	Male		30	46	2011-07-19 19:07:11	2011-07-19 19:07:11
+30	White (not of Hispanic origin)	Atheist	Female		29	47	2011-07-19 19:10:19	2011-07-19 19:10:19
+31	Black (not of Hispanic origin)	Christian	Male		32	49	2011-07-19 19:10:34	2011-07-19 19:10:34
+32	White (not of Hispanic origin)	Christian	Male		28	48	2011-07-19 19:11:03	2011-07-19 19:11:03
+33	Black (not of Hispanic origin)	Other	Female		52	50	2011-07-19 19:12:36	2011-07-19 19:12:36
+34	White (not of Hispanic origin)	Jewish	Male		22	54	2011-07-19 19:41:20	2011-07-19 19:41:20
+35	White (not of Hispanic origin)	Atheist	Male		30	55	2011-07-19 19:41:30	2011-07-19 19:41:30
+36	White (not of Hispanic origin)	Other	Male		27	57	2011-07-19 20:01:03	2011-07-19 20:01:03
+37	White (not of Hispanic origin)	Christian	Male		34	61	2011-07-20 02:53:31	2011-07-20 02:53:31
+38	White (not of Hispanic origin)	Christian	Female		19	63	2011-07-20 02:55:40	2011-07-20 02:55:40
+39	White (not of Hispanic origin)	Christian			49	65	2011-07-20 02:56:16	2011-07-20 02:56:16
+40	White (not of Hispanic origin)	Christian	Female		52	62	2011-07-20 02:58:33	2011-07-20 02:58:33
+41	White (not of Hispanic origin)	Atheist	Female		37	67	2011-07-20 03:05:57	2011-07-20 03:05:57
+42	Black (not of Hispanic origin)	Christian	Female		39	68	2011-07-20 03:07:27	2011-07-20 03:07:27
+43	White (not of Hispanic origin)	Christian	Male		20	70	2011-07-20 03:15:55	2011-07-20 03:15:55
+44	Hispanic	Other	Male		24	71	2011-07-20 03:19:53	2011-07-20 03:19:53
+45	Black (not of Hispanic origin)	Christian	Male		24	72	2011-07-20 03:26:05	2011-07-20 03:26:05
+46	White (not of Hispanic origin)	Christian	Male		43	73	2011-07-20 03:26:50	2011-07-20 03:26:50
+47	White (not of Hispanic origin)	Atheist	Male		26	76	2011-07-20 03:34:19	2011-07-20 03:34:19
+48	White (not of Hispanic origin)	Other	Female		31	69	2011-07-20 03:35:09	2011-07-20 03:35:09
+49	White (not of Hispanic origin)	Christian	Female		30	77	2011-07-20 03:35:11	2011-07-20 03:35:11
+50	White (not of Hispanic origin)	Christian	Female		27	75	2011-07-20 03:37:29	2011-07-20 03:37:29
+51	White (not of Hispanic origin)	Atheist	Male		28	79	2011-07-20 03:38:09	2011-07-20 03:38:09
+52	White (not of Hispanic origin)	Other	Male		29	78	2011-07-20 03:38:19	2011-07-20 03:38:19
+53	White (not of Hispanic origin)	Christian	Female		23	80	2011-07-20 03:40:21	2011-07-20 03:40:21
+54	White (not of Hispanic origin)	Atheist	Female		31	82	2011-07-20 03:41:19	2011-07-20 03:41:19
+55	White (not of Hispanic origin)	Christian	Female		31	83	2011-07-20 03:43:21	2011-07-20 03:43:21
+56	White (not of Hispanic origin)	Other	Female		20	84	2011-07-20 03:46:25	2011-07-20 03:46:25
+57	White (not of Hispanic origin)	Christian	Female		42	85	2011-07-20 03:50:11	2011-07-20 03:50:11
+58	White (not of Hispanic origin)	Christian	Female		53	86	2011-07-20 03:50:13	2011-07-20 03:50:13
+59	White (not of Hispanic origin)	Christian	Male		28	87	2011-07-20 03:51:33	2011-07-20 03:51:33
+60	Hispanic	Christian	Male		18	89	2011-07-20 03:54:32	2011-07-20 03:54:32
+61	White (not of Hispanic origin)	Other	Male		24	90	2011-07-20 03:57:45	2011-07-20 03:57:45
+62	Hispanic	Christian	Male		29	93	2011-07-20 03:59:11	2011-07-20 03:59:11
+63	White (not of Hispanic origin)	Christian	Female		27	99	2011-07-20 03:59:33	2011-07-20 03:59:33
+64	Asian or Pacific Islander	Atheist	Male		27	100	2011-07-20 04:03:20	2011-07-20 04:03:20
+65	White (not of Hispanic origin)	Christian	Female		32	102	2011-07-20 04:16:52	2011-07-20 04:16:52
+66	White (not of Hispanic origin)	Atheist	Male		36	104	2011-07-20 04:21:43	2011-07-20 04:21:43
+67	White (not of Hispanic origin)	Other	Female		59	101	2011-07-20 04:22:02	2011-07-20 04:22:02
+68	Asian or Pacific Islander	Other	Male		40	105	2011-07-20 04:23:43	2011-07-20 04:23:43
+69	White (not of Hispanic origin)	Atheist	Female		21	107	2011-07-20 04:40:12	2011-07-20 04:40:12
+70	White (not of Hispanic origin)	Christian	Female		30	108	2011-07-20 04:41:02	2011-07-20 04:41:02
+71	Asian or Pacific Islander	Christian	Female		31	109	2011-07-20 04:43:45	2011-07-20 04:43:45
+72	Black (not of Hispanic origin)	Atheist	Female		23	110	2011-07-20 04:47:16	2011-07-20 04:47:16
+73	White (not of Hispanic origin)	Other	Male		41	111	2011-07-20 04:50:22	2011-07-20 04:50:22
+74	White (not of Hispanic origin)	Atheist	Female		42	112	2011-07-20 04:56:34	2011-07-20 04:56:34
+75	White (not of Hispanic origin)	Atheist	Female		42	113	2011-07-20 05:02:24	2011-07-20 05:02:24
+76	White (not of Hispanic origin)	Atheist	Female		30	115	2011-07-20 05:11:37	2011-07-20 05:11:37
+77	White (not of Hispanic origin)	Christian	Female		36	117	2011-07-20 05:18:13	2011-07-20 05:18:13
+78	White (not of Hispanic origin)	Atheist	Female		26	118	2011-07-20 05:23:51	2011-07-20 05:23:51
+79	Asian or Pacific Islander	Hindu	Female		25	119	2011-07-20 05:29:37	2011-07-20 05:29:37
+80	Hispanic	Other	Male		21	120	2011-07-20 05:34:29	2011-07-20 05:34:29
+81	White (not of Hispanic origin)	Christian	Female		23	122	2011-07-20 05:56:17	2011-07-20 05:56:17
+82	White (not of Hispanic origin)	Atheist	Male		35	123	2011-07-20 06:01:41	2011-07-20 06:01:41
+83	Hispanic	Christian	Male		22	125	2011-07-20 06:24:06	2011-07-20 06:24:06
+84	Asian or Pacific Islander	Hindu	Male		40	124	2011-07-20 06:25:19	2011-07-20 06:25:19
+85	Native American or Alaskan Native	Christian	Female		28	126	2011-07-20 06:35:21	2011-07-20 06:35:21
+86	White (not of Hispanic origin)	Atheist	Female		55	127	2011-07-20 06:48:01	2011-07-20 06:48:01
+87	Asian or Pacific Islander	Christian	Female		27	128	2011-07-20 06:58:24	2011-07-20 06:58:24
+88	White (not of Hispanic origin)	Christian	Male		25	130	2011-07-20 07:15:24	2011-07-20 07:15:24
+89	White (not of Hispanic origin)	Christian	Female		28	133	2011-07-20 07:23:30	2011-07-20 07:23:30
+90	White (not of Hispanic origin)	Atheist	Female		18	134	2011-07-20 07:30:36	2011-07-20 07:30:36
+91	White (not of Hispanic origin)	Other	Female		54	129	2011-07-20 07:35:08	2011-07-20 07:35:08
+92	White (not of Hispanic origin)	Christian	Female		32	135	2011-07-20 07:36:55	2011-07-20 07:36:55
+93	Asian or Pacific Islander	Buddhist	Female		20	132	2011-07-20 07:39:56	2011-07-20 07:39:56
+94	White (not of Hispanic origin)	Atheist	Female		26	131	2011-07-20 07:45:52	2011-07-20 07:45:52
+95	Other or Unknown	Christian	Male		22	136	2011-07-20 07:57:54	2011-07-20 07:57:54
+96	White (not of Hispanic origin)	Atheist	Male		31	137	2011-07-20 08:02:54	2011-07-20 08:02:54
+97	White (not of Hispanic origin)	Christian	Male		57	138	2011-07-20 08:32:09	2011-07-20 08:32:09
+98	Asian or Pacific Islander	Christian	Female		27	139	2011-07-20 08:42:43	2011-07-20 08:42:43
+99	White (not of Hispanic origin)	Christian	Male		53	140	2011-07-20 08:50:32	2011-07-20 08:50:32
+100	White (not of Hispanic origin)	Atheist	Female		28	142	2011-07-20 10:10:12	2011-07-20 10:10:12
+101	White (not of Hispanic origin)	Christian	Male		21	143	2011-07-20 11:37:00	2011-07-20 11:37:00
+102	White (not of Hispanic origin)	Christian	Female		43	145	2011-07-20 12:09:49	2011-07-20 12:09:49
+103	White (not of Hispanic origin)	Christian	Female		51	147	2011-07-20 12:37:41	2011-07-20 12:37:41
+104	White (not of Hispanic origin)	Christian	Male		30	148	2011-07-20 12:58:11	2011-07-20 12:58:11
+105	White (not of Hispanic origin)	Other	Female		31	149	2011-07-20 13:32:37	2011-07-20 13:32:37
+106	White (not of Hispanic origin)	Christian	Female		42	152	2011-07-20 15:56:48	2011-07-20 15:56:48
+107	White (not of Hispanic origin)	Christian	Female		43	153	2011-07-20 15:57:26	2011-07-20 15:57:26
+108	White (not of Hispanic origin)	Atheist	Female		34	154	2011-07-20 15:58:23	2011-07-20 15:58:23
+109	White (not of Hispanic origin)	Christian	Female		36	155	2011-07-20 15:59:34	2011-07-20 15:59:34
+110	Other or Unknown	Atheist	Female		18	157	2011-07-20 16:04:19	2011-07-20 16:04:19
+111	White (not of Hispanic origin)	Christian	Female		33	160	2011-07-20 16:11:10	2011-07-20 16:11:10
+112	Asian or Pacific Islander	Hindu	Female		30	159	2011-07-20 16:11:46	2011-07-20 16:11:46
+113	White (not of Hispanic origin)	Atheist	Male		29	162	2011-07-20 16:14:39	2011-07-20 16:14:39
+114	White (not of Hispanic origin)	Atheist	Female		30	161	2011-07-20 16:14:51	2011-07-20 16:14:51
+115	White (not of Hispanic origin)	Christian	Female		28	158	2011-07-20 16:15:30	2011-07-20 16:15:30
+116	White (not of Hispanic origin)	Atheist	Female		58	166	2011-07-20 16:17:54	2011-07-20 16:17:54
+117	White (not of Hispanic origin)	Christian	Male		25	164	2011-07-20 16:22:25	2011-07-20 16:22:25
+118	White (not of Hispanic origin)	Christian	Male		47	168	2011-07-20 16:29:21	2011-07-20 16:29:21
+119	White (not of Hispanic origin)	Christian	Male		41	170	2011-07-20 16:32:55	2011-07-20 16:32:55
+120	White (not of Hispanic origin)	Other	Female		49	172	2011-07-20 16:54:20	2011-07-20 16:54:20
+121	White (not of Hispanic origin)	Christian	Male		23	173	2011-07-20 16:56:25	2011-07-20 16:56:25
+122	Asian or Pacific Islander	Christian	Female		24	175	2011-07-20 17:07:08	2011-07-20 17:07:08
+123	White (not of Hispanic origin)	Other	Female		38	177	2011-07-20 17:09:25	2011-07-20 17:09:25
+124	White (not of Hispanic origin)	Atheist	Female		22	178	2011-07-20 17:15:18	2011-07-20 17:15:18
+125	White (not of Hispanic origin)	Other	Male		27	180	2011-07-20 17:17:31	2011-07-20 17:17:31
+126	White (not of Hispanic origin)	Christian	Female		35	181	2011-07-20 17:20:49	2011-07-20 17:20:49
+127	White (not of Hispanic origin)	Christian	Female		37	185	2011-07-20 17:26:41	2011-07-20 17:26:41
+128	White (not of Hispanic origin)	Christian	Male		29	190	2011-07-20 17:33:15	2011-07-20 17:33:15
+129	White (not of Hispanic origin)	Christian	Male		26	192	2011-07-20 17:37:43	2011-07-20 17:37:43
+130	White (not of Hispanic origin)	Other	Female		32	191	2011-07-20 17:38:12	2011-07-20 17:38:12
+131	White (not of Hispanic origin)	Christian	Female		25	194	2011-07-20 17:47:45	2011-07-20 17:47:45
+132	White (not of Hispanic origin)	Christian	Female		30	195	2011-07-20 17:49:57	2011-07-20 17:49:57
+133	Black (not of Hispanic origin)	Christian	Female		58	196	2011-07-20 17:52:06	2011-07-20 17:52:06
+134	White (not of Hispanic origin)	Christian	Female		21	197	2011-07-20 17:58:27	2011-07-20 17:58:27
+135	Other or Unknown	Other	Female		23	193	2011-07-20 18:03:13	2011-07-20 18:03:13
+136	White (not of Hispanic origin)	Christian	Female		18	198	2011-07-20 18:05:57	2011-07-20 18:05:57
+137	White (not of Hispanic origin)	Christian	Female		54	199	2011-07-20 18:06:47	2011-07-20 18:06:47
+138	White (not of Hispanic origin)	Christian	Female		29	200	2011-07-20 18:08:44	2011-07-20 18:08:44
+139	Black (not of Hispanic origin)	Other	Female		18	201	2011-07-20 18:13:08	2011-07-20 18:13:08
+140	White (not of Hispanic origin)	Christian	Female		26	202	2011-07-20 18:13:43	2011-07-20 18:13:43
+141	White (not of Hispanic origin)	Christian	Male		27	203	2011-07-20 18:13:45	2011-07-20 18:13:45
+142	Asian or Pacific Islander	Atheist	Male		23	205	2011-07-20 18:24:42	2011-07-20 18:24:42
+143	Asian or Pacific Islander	Atheist	Male		21	206	2011-07-20 18:28:29	2011-07-20 18:28:29
+144	White (not of Hispanic origin)	Christian	Male		22	210	2011-07-20 18:32:36	2011-07-20 18:32:36
+145	White (not of Hispanic origin)	Atheist	Female		48	211	2011-07-20 18:34:36	2011-07-20 18:34:36
+146	White (not of Hispanic origin)	Atheist	Female		22	212	2011-07-20 18:46:02	2011-07-20 18:46:02
+147	White (not of Hispanic origin)	Christian	Female		45	213	2011-07-20 18:48:17	2011-07-20 18:48:17
+148	White (not of Hispanic origin)	Jewish	Male		22	215	2011-07-20 18:49:26	2011-07-20 18:49:26
+149	White (not of Hispanic origin)	Christian	Male		18	214	2011-07-20 18:50:10	2011-07-20 18:50:10
+150	White (not of Hispanic origin)	Christian	Female		37	216	2011-07-20 18:58:41	2011-07-20 18:58:41
+151	White (not of Hispanic origin)	Atheist	Female		19	217	2011-07-20 19:00:42	2011-07-20 19:00:42
+152	Asian or Pacific Islander	Other	Male		22	219	2011-07-20 19:08:15	2011-07-20 19:08:15
+153	White (not of Hispanic origin)	Christian	Female		45	220	2011-07-20 19:11:31	2011-07-20 19:11:31
+154	Asian or Pacific Islander	Buddhist	Male		22	221	2011-07-20 19:19:31	2011-07-20 19:19:31
+155	Hispanic	Atheist	Male		29	222	2011-07-20 19:22:06	2011-07-20 19:22:06
+156	White (not of Hispanic origin)	Atheist	Female		19	223	2011-07-20 19:24:50	2011-07-20 19:24:50
+157	White (not of Hispanic origin)	Other	Male		27	224	2011-07-20 19:30:06	2011-07-20 19:30:06
+158	White (not of Hispanic origin)	Christian	Female		35	226	2011-07-20 19:40:18	2011-07-20 19:40:18
+159	Asian or Pacific Islander	Christian	Female		22	227	2011-07-20 19:46:20	2011-07-20 19:46:20
+160	White (not of Hispanic origin)	Christian	Female		44	228	2011-07-20 19:51:50	2011-07-20 19:51:50
+161	White (not of Hispanic origin)	Atheist	Male		60	229	2011-07-20 19:59:42	2011-07-20 19:59:42
+162	White (not of Hispanic origin)	Other	Male		25	230	2011-07-20 20:05:16	2011-07-20 20:05:16
+163	White (not of Hispanic origin)	Other	Male		27	231	2011-07-20 20:05:25	2011-07-20 20:05:25
+164	White (not of Hispanic origin)	Atheist	Male		31	233	2011-07-20 20:09:16	2011-07-20 20:09:16
+165	White (not of Hispanic origin)	Christian	Female		35	232	2011-07-20 20:09:43	2011-07-20 20:09:43
+166	Other or Unknown	Christian	Female		22	235	2011-07-20 20:19:22	2011-07-20 20:19:22
+167	White (not of Hispanic origin)	Christian	Male		25	236	2011-07-20 20:22:00	2011-07-20 20:22:00
+168	White (not of Hispanic origin)	Christian	Male		22	237	2011-07-20 20:22:26	2011-07-20 20:22:26
+169	White (not of Hispanic origin)	Christian	Female		21	239	2011-07-20 20:32:51	2011-07-20 20:32:51
+170	White (not of Hispanic origin)	Christian	Male		28	240	2011-07-20 20:36:35	2011-07-20 20:36:35
+171	Black (not of Hispanic origin)	Christian	Female		17	242	2011-07-20 20:50:27	2011-07-20 20:50:27
+172	White (not of Hispanic origin)	Christian	Female		54	245	2011-07-20 21:21:32	2011-07-20 21:21:32
+173	Asian or Pacific Islander	Buddhist	Male		22	247	2011-07-20 21:45:33	2011-07-20 21:45:33
+174	White (not of Hispanic origin)	Christian	Female		55	250	2011-07-20 23:37:04	2011-07-20 23:37:04
+175	White (not of Hispanic origin)	Other	Female		21	254	2011-07-21 01:03:14	2011-07-21 01:03:14
+176	White (not of Hispanic origin)	Christian	Female		39	255	2011-07-21 01:16:52	2011-07-21 01:16:52
+177	White (not of Hispanic origin)	Christian	Female		67	256	2011-07-21 01:25:24	2011-07-21 01:25:24
+178	White (not of Hispanic origin)	Christian	Female		26	258	2011-07-21 02:09:37	2011-07-21 02:09:37
+179	White (not of Hispanic origin)	Christian	Female		28	260	2011-07-21 02:12:46	2011-07-21 02:12:46
+180	White (not of Hispanic origin)	Christian	Female		55	262	2011-07-21 02:12:53	2011-07-21 02:12:53
+181	Other or Unknown	Christian	Female		43	264	2011-07-21 02:14:31	2011-07-21 02:14:31
+182	White (not of Hispanic origin)	Christian	Male		53	265	2011-07-21 02:17:59	2011-07-21 02:17:59
+183	Other or Unknown	Other	Male		22	267	2011-07-21 02:20:37	2011-07-21 02:20:37
+184	White (not of Hispanic origin)	Atheist	Male		25	268	2011-07-21 02:20:47	2011-07-21 02:20:47
+185	Other or Unknown	Other	Female		18	269	2011-07-21 02:23:59	2011-07-21 02:23:59
+186	White (not of Hispanic origin)	Other	Female		45	270	2011-07-21 02:25:36	2011-07-21 02:25:36
+187	White (not of Hispanic origin)	Christian	Female		31	271	2011-07-21 02:28:29	2011-07-21 02:28:29
+188	White (not of Hispanic origin)	Christian	Female		33	273	2011-07-21 02:32:37	2011-07-21 02:32:37
+189	Asian or Pacific Islander	Hindu	Female		51	276	2011-07-21 02:40:29	2011-07-21 02:40:29
+190	White (not of Hispanic origin)	Atheist	Female		46	277	2011-07-21 02:43:44	2011-07-21 02:43:44
+191	Asian or Pacific Islander	Atheist	Male		24	278	2011-07-21 02:44:58	2011-07-21 02:44:58
+192	White (not of Hispanic origin)	Other	Male		22	288	2011-07-21 02:58:29	2011-07-21 02:58:29
+193	White (not of Hispanic origin)	Christian	Female		55	289	2011-07-21 03:05:21	2011-07-21 03:05:21
+194	Other or Unknown	Christian	Female		18	292	2011-07-21 03:15:26	2011-07-21 03:15:26
+195	Hispanic	Other	Female		43	293	2011-07-21 03:15:56	2011-07-21 03:15:56
+196	White (not of Hispanic origin)	Atheist	Female		42	294	2011-07-21 03:16:39	2011-07-21 03:16:39
+197	White (not of Hispanic origin)	Christian	Female		21	295	2011-07-21 03:19:13	2011-07-21 03:19:13
+198	White (not of Hispanic origin)	Christian	Female		27	291	2011-07-21 03:20:15	2011-07-21 03:20:15
+199	White (not of Hispanic origin)	Christian	Female		24	311	2011-07-21 03:23:57	2011-07-21 03:23:57
+200	White (not of Hispanic origin)	Christian	Female		81	312	2011-07-21 03:30:57	2011-07-21 03:30:57
+201	Other or Unknown	Atheist	Female		19	314	2011-07-21 03:37:32	2011-07-21 03:37:32
+202	Asian or Pacific Islander	Christian	Female		31	315	2011-07-21 03:39:34	2011-07-21 03:39:34
+203	White (not of Hispanic origin)	Christian	Female		38	316	2011-07-21 03:43:14	2011-07-21 03:43:14
+204	White (not of Hispanic origin)	Atheist	Female		22	317	2011-07-21 03:47:13	2011-07-21 03:47:13
+205	White (not of Hispanic origin)	Christian	Male		31	325	2011-07-21 04:04:23	2011-07-21 04:04:23
+206	White (not of Hispanic origin)	Christian	Male		23	326	2011-07-21 04:17:24	2011-07-21 04:17:24
+207	White (not of Hispanic origin)	Atheist	Male		32	328	2011-07-21 04:43:06	2011-07-21 04:43:06
+208	White (not of Hispanic origin)	Christian	Male		23	330	2011-07-21 04:52:30	2011-07-21 04:52:30
+209	Hispanic	Atheist	Male		20	331	2011-07-21 04:52:38	2011-07-21 04:52:38
+210	White (not of Hispanic origin)	Christian	Female		28	332	2011-07-21 04:55:28	2011-07-21 04:55:28
+211	White (not of Hispanic origin)	Other	Female			333	2011-07-21 05:11:12	2011-07-21 05:11:12
+212	Asian or Pacific Islander	Atheist	Male		21	334	2011-07-21 05:12:30	2011-07-21 05:12:30
+213	White (not of Hispanic origin)	Christian	Female		24	336	2011-07-21 05:27:30	2011-07-21 05:27:30
+214	White (not of Hispanic origin)	Christian	Male		21	337	2011-07-21 05:42:15	2011-07-21 05:42:15
+215	White (not of Hispanic origin)	Christian	Female		38	355	2011-07-21 06:20:47	2011-07-21 06:20:47
+216	White (not of Hispanic origin)	Jewish	Female		46	356	2011-07-21 06:23:23	2011-07-21 06:23:23
+217	White (not of Hispanic origin)	Other	Male		34	358	2011-07-21 07:02:33	2011-07-21 07:02:33
+218	Hispanic	Christian	Female		32	359	2011-07-21 07:04:54	2011-07-21 07:04:54
+219	Asian or Pacific Islander	Christian			23	361	2011-07-21 07:06:57	2011-07-21 07:06:57
+220	White (not of Hispanic origin)	Christian	Female		29	362	2011-07-21 07:33:25	2011-07-21 07:33:25
+221	White (not of Hispanic origin)	Christian	Male		25	363	2011-07-21 07:35:06	2011-07-21 07:35:06
+222	Hispanic	Christian	Female		31	364	2011-07-21 07:43:39	2011-07-21 07:43:39
+223	Asian or Pacific Islander	Other	Female		30	366	2011-07-21 09:23:34	2011-07-21 09:23:34
+224	Black (not of Hispanic origin)	Atheist	Female		22	367	2011-07-21 09:33:35	2011-07-21 09:33:35
+225	White (not of Hispanic origin)	Christian	Male		20	368	2011-07-21 10:12:57	2011-07-21 10:12:57
+226	White (not of Hispanic origin)	Christian	Male		44	369	2011-07-21 11:11:55	2011-07-21 11:11:55
+227	White (not of Hispanic origin)	Atheist	Male		31	371	2011-07-21 11:29:27	2011-07-21 11:29:27
+228	White (not of Hispanic origin)	Christian	Male		24	370	2011-07-21 11:30:11	2011-07-21 11:30:11
+229	White (not of Hispanic origin)		Male		21	375	2011-07-21 11:44:45	2011-07-21 11:44:45
+230	White (not of Hispanic origin)	Christian	Female		52	376	2011-07-21 11:46:24	2011-07-21 11:46:24
+231	White (not of Hispanic origin)	Christian	Female		42	377	2011-07-21 11:57:14	2011-07-21 11:57:14
+232	White (not of Hispanic origin)	Other	Male		27	386	2011-07-21 12:08:45	2011-07-21 12:08:45
+233	Native American or Alaskan Native	Christian	Female		48	394	2011-07-21 12:46:28	2011-07-21 12:46:28
+234	White (not of Hispanic origin)	Christian	Male		23	395	2011-07-21 12:53:23	2011-07-21 12:53:23
+235	White (not of Hispanic origin)	Christian	Female		47	396	2011-07-21 13:00:58	2011-07-21 13:00:58
+236	White (not of Hispanic origin)	Other	Male		22	398	2011-07-21 13:03:00	2011-07-21 13:03:00
+237	White (not of Hispanic origin)	Christian	Female		46	397	2011-07-21 13:04:45	2011-07-21 13:04:45
+238	Black (not of Hispanic origin)	Christian	Male		45	399	2011-07-21 13:05:16	2011-07-21 13:05:16
+239	White (not of Hispanic origin)	Christian	Male		43	400	2011-07-21 13:07:16	2011-07-21 13:07:16
+240	White (not of Hispanic origin)	Christian	Female		65	401	2011-07-21 13:08:45	2011-07-21 13:08:45
+241	White (not of Hispanic origin)	Atheist	Female		27	402	2011-07-21 13:13:59	2011-07-21 13:13:59
+242	White (not of Hispanic origin)	Christian	Female		47	403	2011-07-21 13:16:56	2011-07-21 13:16:56
+243	White (not of Hispanic origin)	Other	Female		39	404	2011-07-21 13:31:41	2011-07-21 13:31:41
+244	White (not of Hispanic origin)	Buddhist	Female		44	406	2011-07-21 13:41:17	2011-07-21 13:41:17
+245	White (not of Hispanic origin)	Other	Male		55	407	2011-07-21 14:06:46	2011-07-21 14:06:46
+246	Hispanic	Other	Female		26	374	2011-07-21 15:13:30	2011-07-21 15:13:30
+247	Black (not of Hispanic origin)	Other	Male		36	408	2011-07-21 15:13:33	2011-07-21 15:13:33
+248	White (not of Hispanic origin)	Christian	Male		53	412	2011-07-21 17:35:29	2011-07-21 17:35:29
+249	White (not of Hispanic origin)	Atheist	Female		56	415	2011-07-21 17:44:54	2011-07-21 17:44:54
+250	White (not of Hispanic origin)	Christian	Female		42	418	2011-07-21 17:49:16	2011-07-21 17:49:16
+251	Black (not of Hispanic origin)	Atheist	Female		28	416	2011-07-21 17:49:56	2011-07-21 17:49:56
+252	Asian or Pacific Islander	Christian	Male		23	425	2011-07-21 17:50:43	2011-07-21 17:50:43
+253	Hispanic	Christian	Male		25	426	2011-07-21 17:50:59	2011-07-21 17:50:59
+254	Other or Unknown	Christian	Female		23	417	2011-07-21 17:51:10	2011-07-21 17:51:10
+255	Black (not of Hispanic origin)	Christian	Male		34	424	2011-07-21 17:51:19	2011-07-21 17:51:19
+256	White (not of Hispanic origin)	Christian	Female		58	427	2011-07-21 17:53:07	2011-07-21 17:53:07
+257	White (not of Hispanic origin)	Christian	Female		34	420	2011-07-21 17:53:41	2011-07-21 17:53:41
+258	Black (not of Hispanic origin)	Christian	Female		28	430	2011-07-21 17:57:08	2011-07-21 17:57:08
+259	White (not of Hispanic origin)	Christian	Female		32	428	2011-07-21 17:57:12	2011-07-21 17:57:12
+260	White (not of Hispanic origin)	Christian	Male		25	431	2011-07-21 18:09:37	2011-07-21 18:09:37
+261	White (not of Hispanic origin)	Christian	Female		32	433	2011-07-21 18:10:54	2011-07-21 18:10:54
+262	Asian or Pacific Islander	Atheist	Male		20	432	2011-07-21 18:11:06	2011-07-21 18:11:06
+263	White (not of Hispanic origin)	Other	Female		28	434	2011-07-21 18:11:15	2011-07-21 18:11:15
+264	White (not of Hispanic origin)	Christian	Female		48	435	2011-07-21 18:14:45	2011-07-21 18:14:45
+265	Native American or Alaskan Native	Muslim	Male		34	436	2011-07-21 18:19:58	2011-07-21 18:19:58
+266	White (not of Hispanic origin)	Christian	Female		38	439	2011-07-21 18:26:37	2011-07-21 18:26:37
+267	White (not of Hispanic origin)	Christian	Male		28	438	2011-07-21 18:27:11	2011-07-21 18:27:11
+268	White (not of Hispanic origin)	Christian	Female		24	437	2011-07-21 18:29:46	2011-07-21 18:29:46
+269	Black (not of Hispanic origin)	Christian	Female		20	442	2011-07-21 18:43:47	2011-07-21 18:43:47
+270	White (not of Hispanic origin)	Christian	Female		22	444	2011-07-21 18:46:22	2011-07-21 18:46:22
+271	Asian or Pacific Islander	Christian	Female		33	446	2011-07-21 18:47:17	2011-07-21 18:47:17
+272	White (not of Hispanic origin)	Christian	Female		36	447	2011-07-21 18:49:14	2011-07-21 18:49:14
+273	White (not of Hispanic origin)	Christian	Male		23	448	2011-07-21 18:51:21	2011-07-21 18:51:21
+274	White (not of Hispanic origin)	Other	Female		35	445	2011-07-21 18:52:15	2011-07-21 18:52:15
+275	White (not of Hispanic origin)	Atheist	Female		18	449	2011-07-21 19:01:17	2011-07-21 19:01:17
+276						450	2011-07-21 19:01:54	2011-07-21 19:01:54
+277	White (not of Hispanic origin)	Buddhist	Female		27	451	2011-07-21 19:02:36	2011-07-21 19:02:36
+278	White (not of Hispanic origin)	Atheist	Male		18	453	2011-07-21 19:04:20	2011-07-21 19:04:20
+279	Other or Unknown	Other	Male		21	455	2011-07-21 19:08:48	2011-07-21 19:08:48
+280	Other or Unknown	Other	Female		19	458	2011-07-21 19:15:40	2011-07-21 19:15:40
+281	White (not of Hispanic origin)	Atheist	Female		22	457	2011-07-21 19:16:30	2011-07-21 19:16:30
+282	Hispanic	Other	Male		22	456	2011-07-21 19:16:35	2011-07-21 19:16:35
+283	White (not of Hispanic origin)	Other	Female		47	460	2011-07-21 19:19:37	2011-07-21 19:19:37
+284	White (not of Hispanic origin)	Other	Female		24	459	2011-07-21 19:20:11	2011-07-21 19:20:11
+285	White (not of Hispanic origin)	Christian	Female		27	461	2011-07-21 19:26:29	2011-07-21 19:26:29
+286	White (not of Hispanic origin)	Christian	Female		28	464	2011-07-21 19:52:05	2011-07-21 19:52:05
+287	White (not of Hispanic origin)	Jewish	Female		57	463	2011-07-21 19:52:21	2011-07-21 19:52:21
+288	White (not of Hispanic origin)	Other	Female		36	466	2011-07-21 19:56:15	2011-07-21 19:56:15
+289	White (not of Hispanic origin)	Christian	Female		49	468	2011-07-21 20:04:28	2011-07-21 20:04:28
+290	White (not of Hispanic origin)	Christian			54	469	2011-07-21 20:11:34	2011-07-21 20:11:34
+291	White (not of Hispanic origin)	Atheist	Female		19	470	2011-07-21 20:20:15	2011-07-21 20:20:15
+292	White (not of Hispanic origin)	Christian	Female		56	471	2011-07-21 20:25:07	2011-07-21 20:25:07
+293	White (not of Hispanic origin)	Christian	Male		52	472	2011-07-21 20:34:19	2011-07-21 20:34:19
+294	White (not of Hispanic origin)	Christian	Female		28	474	2011-07-21 20:40:21	2011-07-21 20:40:21
+295	Asian or Pacific Islander	Atheist	Female		16	475	2011-07-21 20:49:45	2011-07-21 20:49:45
+296	White (not of Hispanic origin)	Buddhist	Male		34	476	2011-07-21 20:51:58	2011-07-21 20:51:58
+297	White (not of Hispanic origin)	Other	Male		26	478	2011-07-21 20:55:27	2011-07-21 20:55:27
+298	White (not of Hispanic origin)	Christian	Female		26	481	2011-07-21 20:59:25	2011-07-21 20:59:25
+299	White (not of Hispanic origin)	Atheist	Male		34	482	2011-07-21 20:59:27	2011-07-21 20:59:27
+300	White (not of Hispanic origin)	Atheist	Male		24	484	2011-07-21 21:19:11	2011-07-21 21:19:11
+301	White (not of Hispanic origin)	Atheist	Male		21	485	2011-07-21 21:34:45	2011-07-21 21:34:45
+302	Other or Unknown	Christian	Male		32	486	2011-07-21 21:38:44	2011-07-21 21:38:44
+303	White (not of Hispanic origin)	Other	Male		36	489	2011-07-21 21:53:52	2011-07-21 21:53:52
+304	Hispanic	Other	Female		19	487	2011-07-21 21:54:19	2011-07-21 21:54:19
+305	White (not of Hispanic origin)	Atheist	Male		24	492	2011-07-21 22:17:39	2011-07-21 22:17:39
+306	White (not of Hispanic origin)	Atheist	Female		26	494	2011-07-21 22:30:47	2011-07-21 22:30:47
+307	White (not of Hispanic origin)	Atheist	Female		23	495	2011-07-21 22:37:08	2011-07-21 22:37:08
+308	White (not of Hispanic origin)	Other	Female		23	496	2011-07-21 22:55:13	2011-07-21 22:55:13
+309	Black (not of Hispanic origin)	Christian	Female		53	497	2011-07-21 23:21:59	2011-07-21 23:21:59
+310	Hispanic	Christian	Male		55	498	2011-07-21 23:22:46	2011-07-21 23:22:46
+311	White (not of Hispanic origin)	Christian	Female		21	505	2011-07-22 00:09:54	2011-07-22 00:09:54
+312	White (not of Hispanic origin)	Other	Male		28	511	2011-07-22 02:44:05	2011-07-22 02:44:05
+313	White (not of Hispanic origin)	Christian	Female		38	515	2011-07-22 03:03:58	2011-07-22 03:03:58
+314	Black (not of Hispanic origin)	Christian	Female		29	518	2011-07-22 04:15:14	2011-07-22 04:15:14
+315	Asian or Pacific Islander	Christian	Female		30	523	2011-07-22 07:50:56	2011-07-22 07:50:56
+316	Black (not of Hispanic origin)	Christian	Female		34	524	2011-07-22 08:08:43	2011-07-22 08:08:43
+317						560	2011-07-26 19:01:54	2011-07-26 19:01:54
+318	Asian or Pacific Islander	Buddhist	Female		22	572	2011-07-27 19:32:52	2011-07-27 19:32:52
+319	White (not of Hispanic origin)	Christian	Female		25	573	2011-07-27 19:33:27	2011-07-27 19:33:27
+320	White (not of Hispanic origin)	Atheist	Male		20	574	2011-07-27 19:34:24	2011-07-27 19:34:24
+321	White (not of Hispanic origin)	Other	Female		23	580	2011-07-27 19:36:01	2011-07-27 19:36:01
+322	White (not of Hispanic origin)	Other	Female		48	584	2011-07-27 19:37:51	2011-07-27 19:37:51
+323	Hispanic	Atheist	Female		24	586	2011-07-27 19:39:00	2011-07-27 19:39:00
+324	White (not of Hispanic origin)	Christian	Male		22	591	2011-07-27 19:40:37	2011-07-27 19:40:37
+325	Asian or Pacific Islander	Buddhist	Male		22	592	2011-07-27 19:40:39	2011-07-27 19:40:39
+326	Black (not of Hispanic origin)	Other	Female		23	587	2011-07-27 19:42:20	2011-07-27 19:42:20
+327	Asian or Pacific Islander	Atheist	Male		22	601	2011-07-27 19:54:34	2011-07-27 19:54:34
+328	White (not of Hispanic origin)	Christian	Female		30	602	2011-07-27 20:04:25	2011-07-27 20:04:25
+329	White (not of Hispanic origin)	Christian	Female		23	603	2011-07-27 20:05:49	2011-07-27 20:05:49
+330	White (not of Hispanic origin)	Other	Female		31	604	2011-07-27 20:07:39	2011-07-27 20:07:39
+331	White (not of Hispanic origin)	Atheist	Female		19	605	2011-07-27 20:14:58	2011-07-27 20:14:58
+332	White (not of Hispanic origin)	Christian	Male		21	607	2011-07-27 20:18:22	2011-07-27 20:18:22
+333	White (not of Hispanic origin)	Christian	Female		59	609	2011-07-27 20:27:57	2011-07-27 20:27:57
+334	White (not of Hispanic origin)	Christian	Female		57	606	2011-07-27 20:36:14	2011-07-27 20:36:14
+335	Other or Unknown	Other	Female		28	611	2011-07-27 20:41:00	2011-07-27 20:41:00
+336	Other or Unknown	Christian	Female		25	613	2011-07-27 20:41:43	2011-07-27 20:41:43
+337	White (not of Hispanic origin)	Atheist	Male		28	614	2011-07-27 20:45:09	2011-07-27 20:45:09
+338	White (not of Hispanic origin)	Christian	Female		21	616	2011-07-27 20:49:04	2011-07-27 20:49:04
+339	White (not of Hispanic origin)	Christian	Female		54	617	2011-07-27 20:52:37	2011-07-27 20:52:37
+340	White (not of Hispanic origin)	Christian	Female		47	620	2011-07-27 20:59:02	2011-07-27 20:59:02
+341	White (not of Hispanic origin)	Christian	Male		31	621	2011-07-27 21:01:17	2011-07-27 21:01:17
+342	Black (not of Hispanic origin)	Atheist	Female		29	623	2011-07-27 21:07:08	2011-07-27 21:07:08
+343	White (not of Hispanic origin)	Jewish	Male		25	625	2011-07-27 21:22:29	2011-07-27 21:22:29
+344	White (not of Hispanic origin)	Other	Female		20	629	2011-07-27 21:36:01	2011-07-27 21:36:01
+345	Black (not of Hispanic origin)	Christian			47	630	2011-07-27 21:41:26	2011-07-27 21:41:26
+346	White (not of Hispanic origin)	Christian	Male		29	631	2011-07-27 21:47:00	2011-07-27 21:47:00
+347	White (not of Hispanic origin)	Atheist	Male		40	632	2011-07-27 21:54:12	2011-07-27 21:54:12
+348	White (not of Hispanic origin)	Christian	Female		18	633	2011-07-27 22:08:42	2011-07-27 22:08:42
+349	White (not of Hispanic origin)	Christian	Female		51	635	2011-07-27 22:11:48	2011-07-27 22:11:48
+350	White (not of Hispanic origin)	Christian	Female		40	636	2011-07-27 22:13:30	2011-07-27 22:13:30
+351	White (not of Hispanic origin)	Atheist	Male		25	637	2011-07-27 22:18:29	2011-07-27 22:18:29
+352	White (not of Hispanic origin)	Christian	Female		21	634	2011-07-27 22:24:19	2011-07-27 22:24:19
+353	White (not of Hispanic origin)	Other	Female		19	648	2011-07-27 22:33:50	2011-07-27 22:33:50
+354	White (not of Hispanic origin)	Christian	Female		55	649	2011-07-27 22:40:58	2011-07-27 22:40:58
+355	White (not of Hispanic origin)	Christian	Female		50	650	2011-07-27 22:44:44	2011-07-27 22:44:44
+356	White (not of Hispanic origin)	Christian	Female		59	653	2011-07-27 22:58:38	2011-07-27 22:58:38
+357	White (not of Hispanic origin)	Atheist	Female		28	654	2011-07-27 23:00:43	2011-07-27 23:00:43
+358	White (not of Hispanic origin)	Christian	Female		27	657	2011-07-27 23:07:17	2011-07-27 23:07:17
+359	White (not of Hispanic origin)	Christian	Female		21	652	2011-07-27 23:08:56	2011-07-27 23:08:56
+360	White (not of Hispanic origin)	Christian	Female		78	658	2011-07-27 23:16:03	2011-07-27 23:16:03
+361	White (not of Hispanic origin)	Christian	Male		44	659	2011-07-27 23:21:10	2011-07-27 23:21:10
+362	Black (not of Hispanic origin)	Christian	Female		19	660	2011-07-27 23:37:15	2011-07-27 23:37:15
+363	Hispanic	Christian	Male		32	661	2011-07-27 23:40:19	2011-07-27 23:40:19
+364	White (not of Hispanic origin)	Christian	Male		25	662	2011-07-27 23:47:38	2011-07-27 23:47:38
+365	Black (not of Hispanic origin)	Christian	Female		20	663	2011-07-27 23:51:42	2011-07-27 23:51:42
+366	White (not of Hispanic origin)	Christian	Female		38	667	2011-07-28 00:05:26	2011-07-28 00:05:26
+367	White (not of Hispanic origin)	Christian	Female		26	670	2011-07-28 00:09:29	2011-07-28 00:09:29
+368	White (not of Hispanic origin)	Jewish	Male		24	668	2011-07-28 00:10:06	2011-07-28 00:10:06
+369	White (not of Hispanic origin)	Christian	Male		42	671	2011-07-28 00:16:51	2011-07-28 00:16:51
+370	White (not of Hispanic origin)	Christian	Female		42	677	2011-07-28 00:25:10	2011-07-28 00:25:10
+371	Native American or Alaskan Native	Christian	Female		48	676	2011-07-28 00:25:26	2011-07-28 00:25:26
+372	White (not of Hispanic origin)	Christian	Male		28	678	2011-07-28 00:29:26	2011-07-28 00:29:26
+373	White (not of Hispanic origin)	Christian	Male		43	681	2011-07-28 00:39:57	2011-07-28 00:39:57
+374	White (not of Hispanic origin)	Christian	Female		29	680	2011-07-28 00:42:09	2011-07-28 00:42:09
+375	Black (not of Hispanic origin)	Christian	Male		40	682	2011-07-28 00:42:20	2011-07-28 00:42:20
+376	White (not of Hispanic origin)	Atheist	Male		28	684	2011-07-28 00:53:01	2011-07-28 00:53:01
+377	Native American or Alaskan Native	Christian	Male		28	687	2011-07-28 00:57:40	2011-07-28 00:57:40
+378	White (not of Hispanic origin)	Other	Male		27	688	2011-07-28 01:48:42	2011-07-28 01:48:42
+379	Asian or Pacific Islander	Hindu	Female		51	689	2011-07-28 02:00:16	2011-07-28 02:00:16
+380	White (not of Hispanic origin)	Christian	Female		28	690	2011-07-28 02:02:26	2011-07-28 02:02:26
+381	Black (not of Hispanic origin)	Other	Female		52	692	2011-07-28 02:13:41	2011-07-28 02:13:41
+382	White (not of Hispanic origin)	Other	Male		22	695	2011-07-28 02:24:49	2011-07-28 02:24:49
+383	White (not of Hispanic origin)	Christian	Female		52	696	2011-07-28 02:28:54	2011-07-28 02:28:54
+384	Asian or Pacific Islander	Hindu	Male		40	699	2011-07-28 03:14:49	2011-07-28 03:14:49
+385	White (not of Hispanic origin)	Christian	Male		36	700	2011-07-28 03:26:29	2011-07-28 03:26:29
+386	White (not of Hispanic origin)	Other	Female		27	701	2011-07-28 03:47:08	2011-07-28 03:47:08
+387	Other or Unknown	Other	Male		27	702	2011-07-28 04:05:13	2011-07-28 04:05:13

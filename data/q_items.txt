@@ -1,0 +1,276 @@
+id	ipip_id	source	response_style	text	anchors	created_at	updated_at
+1				Rarely worry.		2011-07-19 18:03:31	2011-07-19 18:03:31
+2				Often eat too much.		2011-07-19 18:03:31	2011-07-19 18:03:31
+3				Usually like to spend my free time with people.		2011-07-19 18:03:31	2011-07-19 18:03:31
+4				Take charge.		2011-07-19 18:03:31	2011-07-19 18:03:31
+5				Am always busy.		2011-07-19 18:03:31	2011-07-19 18:03:31
+6				Radiate joy.		2011-07-19 18:03:31	2011-07-19 18:03:31
+7				Do not like poetry.		2011-07-19 18:03:31	2011-07-19 18:03:31
+8				Distrust people.		2011-07-19 18:03:31	2011-07-19 18:03:31
+9				Tell other people what they want to hear so that they will do what I want them to do.		2011-07-19 18:03:31	2011-07-19 18:03:31
+10				Anticipate the needs of others.		2011-07-19 18:03:31	2011-07-19 18:03:31
+11				Believe that I am better than others.		2011-07-19 18:03:31	2011-07-19 18:03:31
+12				Sympathize with the homeless.		2011-07-19 18:03:31	2011-07-19 18:03:31
+13				Keep things tidy.		2011-07-19 18:03:31	2011-07-19 18:03:31
+14				Am a highly disciplined person.		2011-07-19 18:03:31	2011-07-19 18:03:31
+15				Jump into things without thinking.		2011-07-19 18:03:31	2011-07-19 18:03:31
+16				Admire a really clever scam.		2011-07-19 18:03:31	2011-07-19 18:03:31
+17				Like to own things that impress people.		2011-07-19 18:03:31	2011-07-19 18:03:31
+18				Try to be with someone else when I'm feeling badly.		2011-07-19 18:03:31	2011-07-19 18:03:31
+19				Feel others' emotions.		2011-07-19 18:03:31	2011-07-19 18:03:31
+20				Talk a lot.		2011-07-19 18:03:31	2011-07-19 18:03:31
+21				Try to avoid speaking in public.		2011-07-19 18:03:31	2011-07-19 18:03:31
+22				Am usually active and full of energy.		2011-07-19 18:03:31	2011-07-19 18:03:31
+23				Am patient with people who annoy me.		2011-07-19 18:03:31	2011-07-19 18:03:31
+24				Am easily annoyed.		2011-07-19 18:03:31	2011-07-19 18:03:31
+25				Push myself very hard to succeed.		2011-07-19 18:03:31	2011-07-19 18:03:31
+26				Do not like art.		2011-07-19 18:03:31	2011-07-19 18:03:31
+27				Love to hear about other countries and cultures.		2011-07-19 18:03:31	2011-07-19 18:03:31
+28				Am considered to be kind of eccentric.		2011-07-19 18:03:31	2011-07-19 18:03:31
+29				Worry about what people think of me.		2011-07-19 18:03:31	2011-07-19 18:03:31
+30				Am very shy in social situations.		2011-07-19 18:03:31	2011-07-19 18:03:31
+31				Don't have much energy.		2011-07-19 18:03:31	2011-07-19 18:03:31
+32				Don't think that laws apply to me.		2011-07-19 18:03:31	2011-07-19 18:03:31
+33				Have frequent mood swings.		2011-07-19 18:03:31	2011-07-19 18:03:31
+34				Hold a grudge.		2011-07-19 18:03:31	2011-07-19 18:03:31
+35				Like to act on a whim.		2011-07-19 18:03:31	2011-07-19 18:03:31
+36				Have felt the presence of another person when he or she was not really there.		2011-07-19 18:03:31	2011-07-19 18:03:31
+37				Seem to derive less enjoyment from interacting with people than others do.		2011-07-19 18:03:31	2011-07-19 18:03:31
+38				Love to be the center of attention.		2011-07-19 18:03:31	2011-07-19 18:03:31
+39				Don't let others cut in front of me in line.		2011-07-19 18:03:31	2011-07-19 18:03:31
+40				Insist that others do things my way.		2011-07-19 18:03:31	2011-07-19 18:03:31
+41				Am a firm believer in thinking things through.		2011-07-19 18:03:31	2011-07-19 18:03:31
+42				Dislike changes.		2011-07-19 18:03:31	2011-07-19 18:03:31
+43				Read a large variety of books.		2011-07-19 18:03:31	2011-07-19 18:03:31
+44				Love excitement.		2011-07-19 18:03:31	2011-07-19 18:03:31
+45				Would rather spend money than save it.		2011-07-19 18:03:31	2011-07-19 18:03:31
+46				Enjoy being reckless.		2011-07-19 18:03:31	2011-07-19 18:03:31
+47				Have never cared much what others thought of me.		2011-07-19 18:03:31	2011-07-19 18:03:31
+48				Usually get right to work on something that needs to be done as soon as I think of it.		2011-07-19 18:03:31	2011-07-19 18:03:31
+49				Often have the feeling that others laugh or talk about me.		2011-07-19 18:03:31	2011-07-19 18:03:31
+50				Try to forgive and forget.		2011-07-19 18:03:31	2011-07-19 18:03:31
+51				Feel little concern for others.		2011-07-19 18:03:31	2011-07-19 18:03:31
+52				Do things out of revenge.		2011-07-19 18:03:31	2011-07-19 18:03:31
+53				Have felt contact with a divine power.		2011-07-19 18:03:31	2011-07-19 18:03:31
+54				Am devoted to religion.		2011-07-19 18:03:31	2011-07-19 18:03:31
+55				Was a better than average student when I was in school.		2011-07-19 18:03:31	2011-07-19 18:03:31
+56				Felt close to my parents when I was a child.		2011-07-19 18:03:31	2011-07-19 18:03:31
+57				Feel a sense of worthlessness or hopelessness.		2011-07-19 18:03:31	2011-07-19 18:03:31
+58				Am interested in science.		2011-07-19 18:03:31	2011-07-19 18:03:31
+59				Believe that most questions have one right answer.		2011-07-19 18:03:31	2011-07-19 18:03:31
+60				Tend to feel happy and irritable at the same time.		2011-07-19 18:03:31	2011-07-19 18:03:31
+61				Believe it is always better to be safe than sorry.		2011-07-19 18:03:31	2011-07-19 18:03:31
+62				Rarely get irritated.		2011-07-19 18:03:31	2011-07-19 18:03:31
+63				Wanted to run away from home when I was a child.		2011-07-19 18:03:31	2011-07-19 18:03:31
+64				Often enjoy telling jokes or behaving in a humorous manner.		2011-07-19 18:03:31	2011-07-19 18:03:31
+65				Make enemies.		2011-07-19 18:03:31	2011-07-19 18:03:31
+66				Am fascinated by how machines work.		2011-07-19 18:03:31	2011-07-19 18:03:31
+67				Disliked math in school.		2011-07-19 18:03:31	2011-07-19 18:03:31
+68				Have a rich vocabulary.		2011-07-19 18:03:31	2011-07-19 18:03:31
+69				Like to read.		2011-07-19 18:03:31	2011-07-19 18:03:31
+70				Don't care about dressing nicely.		2011-07-19 18:03:31	2011-07-19 18:03:31
+71				Worry about things.		2011-07-19 18:03:31	2011-07-19 18:03:31
+72				Am easily intimidated.		2011-07-19 18:03:31	2011-07-19 18:03:31
+73				Love large parties.		2011-07-19 18:03:31	2011-07-19 18:03:31
+74				Seldom daydream.		2011-07-19 18:03:31	2011-07-19 18:03:31
+75				Crave the experience of great art.		2011-07-19 18:03:31	2011-07-19 18:03:31
+76				Tend to vote for liberal political candidates.		2011-07-19 18:03:31	2011-07-19 18:03:31
+77				Feel sympathy for those who are worse off than myself.		2011-07-19 18:03:31	2011-07-19 18:03:31
+78				Use my charm to get attention.		2011-07-19 18:03:31	2011-07-19 18:03:31
+79				Avoid activities that are physically dangerous.		2011-07-19 18:03:31	2011-07-19 18:03:31
+80				Immediately feel sad when hearing of an unhappy event.		2011-07-19 18:03:31	2011-07-19 18:03:31
+81				Can make myself work on a difficult task even when I don't feel like trying.		2011-07-19 18:03:31	2011-07-19 18:03:31
+82				Pay too little attention to details.		2011-07-19 18:03:31	2011-07-19 18:03:31
+83				Do not like to visit museums.		2011-07-19 18:03:31	2011-07-19 18:03:31
+84				Have no special urge to do something original.		2011-07-19 18:03:31	2011-07-19 18:03:31
+85				Have difficulty showing affection.		2011-07-19 18:03:31	2011-07-19 18:03:31
+86				Find it easy to manipulate others.		2011-07-19 18:03:31	2011-07-19 18:03:31
+87				Cannot imagine lying or cheating.		2011-07-19 18:03:31	2011-07-19 18:03:31
+88				Talk to a lot of different people at parties.		2011-07-19 18:03:31	2011-07-19 18:03:31
+89				Dislike having authority over others.		2011-07-19 18:03:31	2011-07-19 18:03:31
+90				Often forget to put things back in their proper place.		2011-07-19 18:03:31	2011-07-19 18:03:31
+91				Act without consulting others.		2011-07-19 18:03:31	2011-07-19 18:03:31
+92				Like to visit new places.		2011-07-19 18:03:31	2011-07-19 18:03:31
+93				Have time for play and relaxation.		2011-07-19 18:03:31	2011-07-19 18:03:31
+94				Am open to new experiences.		2011-07-19 18:03:31	2011-07-19 18:03:31
+95				Don't care what others think.		2011-07-19 18:03:31	2011-07-19 18:03:31
+96				Am not sure where my life is going.		2011-07-19 18:03:31	2011-07-19 18:03:31
+97				Would like to have more power than other people.		2011-07-19 18:03:31	2011-07-19 18:03:31
+98				Believe in universal harmony.		2011-07-19 18:03:31	2011-07-19 18:03:31
+99				Am skilled in handling social situations.		2011-07-19 18:03:31	2011-07-19 18:03:31
+100				Try to avoid complex people.		2011-07-19 18:03:31	2011-07-19 18:03:31
+101				See myself as a good leader.		2011-07-19 18:03:31	2011-07-19 18:03:31
+102				Avoid crowds.		2011-07-19 18:03:31	2011-07-19 18:03:31
+103				Am not good at telling jokes.		2011-07-19 18:03:31	2011-07-19 18:03:31
+104				Don't use harsh language.		2011-07-19 18:03:31	2011-07-19 18:03:31
+105				Am able to fix electrical-wiring problems.		2011-07-19 18:03:31	2011-07-19 18:03:31
+106				Enjoy games of strategy.		2011-07-19 18:03:31	2011-07-19 18:03:31
+107				Was a slow learner in school.		2011-07-19 18:03:31	2011-07-19 18:03:31
+108				Often stop to analyze how I'm feeling.		2011-07-19 18:03:31	2011-07-19 18:03:31
+109				Get deeply immersed in music.		2011-07-19 18:03:31	2011-07-19 18:03:31
+110				Like to solve complex problems.		2011-07-19 18:03:31	2011-07-19 18:03:31
+111				Am concerned about others.		2011-07-19 18:03:31	2011-07-19 18:03:31
+112				Like to tidy up.		2011-07-19 18:03:31	2011-07-19 18:03:31
+113				Don't feel the need to be close to others.		2011-07-19 18:03:31	2011-07-19 18:03:31
+114				Love my enemies.		2011-07-19 18:03:31	2011-07-19 18:03:31
+115				Have an imagination that stretches beyond that of my friends.		2011-07-19 18:03:31	2011-07-19 18:03:31
+116				Find it difficult to organize tasks and activities.		2011-07-19 18:03:31	2011-07-19 18:03:31
+117				Feel that life has no meaning.		2011-07-19 18:03:31	2011-07-19 18:03:31
+118				Like being the authority who has everyone's attention.		2011-07-19 18:03:31	2011-07-19 18:03:31
+119				Have attacked someone physically.		2011-07-19 18:03:31	2011-07-19 18:03:31
+120				Like to stand out in a crowd.		2011-07-19 18:03:31	2011-07-19 18:03:31
+121				Get upset if others change the way that I have arranged things.		2011-07-19 18:03:31	2011-07-19 18:03:31
+122				Want things to proceed according to plan.		2011-07-19 18:03:31	2011-07-19 18:03:31
+123				Am often in a bad mood.		2011-07-19 18:03:31	2011-07-19 18:03:31
+124				Want to be the very best.		2011-07-19 18:03:31	2011-07-19 18:03:31
+125				Feel used by other people.		2011-07-19 18:03:31	2011-07-19 18:03:31
+126				Am able to control my cravings.		2011-07-19 18:03:31	2011-07-19 18:03:31
+127				Know what to say to make people feel good.		2011-07-19 18:03:31	2011-07-19 18:03:31
+128				Get so involved with things that I forget the time.		2011-07-19 18:03:31	2011-07-19 18:03:31
+129				Am often bored.		2011-07-19 18:03:31	2011-07-19 18:03:31
+130				Demand attention.		2011-07-19 18:03:31	2011-07-19 18:03:31
+131				Want everything to be "just right."		2011-07-19 18:03:31	2011-07-19 18:03:31
+132				Would love to explore strange places.		2011-07-19 18:03:31	2011-07-19 18:03:31
+133				Amuse my friends.		2011-07-19 18:03:31	2011-07-19 18:03:31
+134				Worry about being embarrassed.		2011-07-19 18:03:31	2011-07-19 18:03:31
+135				Want to be left alone.		2011-07-19 18:03:31	2011-07-19 18:03:31
+136				Don't know why I do some of the things I do.		2011-07-19 18:03:31	2011-07-19 18:03:31
+137				Am exacting in my work.		2011-07-19 18:03:31	2011-07-19 18:03:31
+138				Have difficulty imagining things.		2011-07-19 18:03:31	2011-07-19 18:03:31
+139				Am not interested in theoretical discussions.		2011-07-19 18:03:31	2011-07-19 18:03:31
+140				Don't enjoy being the object of jokes.		2011-07-19 18:03:31	2011-07-19 18:03:31
+141				Plan my life logically.		2011-07-19 18:03:31	2011-07-19 18:03:31
+142				Indulge in my fantasies.		2011-07-19 18:03:31	2011-07-19 18:03:31
+143				Rarely cry during sad movies.		2011-07-19 18:03:31	2011-07-19 18:03:31
+144				Get to work at once.		2011-07-19 18:03:31	2011-07-19 18:03:31
+145				Wait for others to lead the way.		2011-07-19 18:03:31	2011-07-19 18:03:31
+146				Have never hated anyone.		2011-07-19 18:03:31	2011-07-19 18:03:31
+147				Need reassurance.		2011-07-19 18:03:31	2011-07-19 18:03:31
+148				Feel emotions with extreme intensity.		2011-07-19 18:03:31	2011-07-19 18:03:31
+149				Spend a lot of time reading.		2011-07-19 18:03:31	2011-07-19 18:03:31
+150				Don't try to figure myself out.		2011-07-19 18:03:31	2011-07-19 18:03:31
+151				Break my promises.		2011-07-19 18:03:31	2011-07-19 18:03:31
+152				Need a push to get started.		2011-07-19 18:03:31	2011-07-19 18:03:31
+153				Have a colorful and dramatic way of talking about things.		2011-07-19 18:03:31	2011-07-19 18:03:31
+154				Come up with new ways to do things.		2011-07-19 18:03:31	2011-07-19 18:03:31
+155				Don't like to spend money.		2011-07-19 18:03:31	2011-07-19 18:03:31
+156				Believe in a universal power or God.		2011-07-19 18:03:31	2011-07-19 18:03:31
+157				Am the life of the party.		2011-07-19 18:03:31	2011-07-19 18:03:31
+158				Don't attempt to conform to society's expectations.		2011-07-19 18:03:31	2011-07-19 18:03:31
+159				Wonder how I got to be the way that I am.		2011-07-19 18:03:31	2011-07-19 18:03:31
+160				Feel short-changed in life.		2011-07-19 18:03:31	2011-07-19 18:03:31
+161				Will not probe deeply into a subject.		2011-07-19 18:03:31	2011-07-19 18:03:31
+162				Panic easily.		2011-07-19 18:03:31	2011-07-19 18:03:31
+163				Have a strong personality.		2011-07-19 18:03:31	2011-07-19 18:03:31
+164				Prefer to participate fully rather than view life from the sidelines.		2011-07-19 18:03:31	2011-07-19 18:03:31
+165				Spend more money than I should.		2011-07-19 18:03:31	2011-07-19 18:03:31
+166				Make people feel at ease.		2011-07-19 18:03:31	2011-07-19 18:03:31
+167				Am always prepared.		2011-07-19 18:03:31	2011-07-19 18:03:31
+168				Keep my feelings to myself, regardless of how unhappy I am.		2011-07-19 18:03:31	2011-07-19 18:03:31
+169				Spend more money than I have.		2011-07-19 18:03:31	2011-07-19 18:03:31
+170				Love to chat.		2011-07-19 18:03:31	2011-07-19 18:03:31
+171				Am hard to get to know.		2011-07-19 18:03:31	2011-07-19 18:03:31
+172				Get back at people who insult me.		2011-07-19 18:03:31	2011-07-19 18:03:31
+173				Am relaxed most of the time.		2011-07-19 18:03:31	2011-07-19 18:03:31
+174				Check on things more often than necessary.		2011-07-19 18:03:31	2011-07-19 18:03:31
+175				Get too tired to do anything.		2011-07-19 18:03:31	2011-07-19 18:03:31
+176				Don't call attention to myself.		2011-07-19 18:03:31	2011-07-19 18:03:31
+177				Am a good listener.		2011-07-19 18:03:31	2011-07-19 18:03:31
+178				Shout or scream when I'm angry.		2011-07-19 18:03:31	2011-07-19 18:03:31
+179				Disclose my intimate thoughts.		2011-07-19 18:03:31	2011-07-19 18:03:31
+180				Am under constant pressure.		2011-07-19 18:03:31	2011-07-19 18:03:31
+181				Believe that most people would lie to get ahead.		2011-07-19 18:03:31	2011-07-19 18:03:31
+182				When I see people I do not know feeling sad, I feel a need to reach out to them.		2011-07-19 18:03:33	2011-07-19 18:03:33
+183				I spend a lot of time concerned about the well-being of humankind.		2011-07-19 18:03:33	2011-07-19 18:03:33
+184				When I hear about someone (a stranger) going through a difficult time, I feel a great deal of compassion for him or her.		2011-07-19 18:03:33	2011-07-19 18:03:33
+185				It is easy for me to feel the pain (and joy) experienced by others, even though I do not know them.		2011-07-19 18:03:33	2011-07-19 18:03:33
+186				If I encounter a stranger who needs help, I would do almost anything I could to help him or her.		2011-07-19 18:03:33	2011-07-19 18:03:33
+187				I feel considerable compassionate love for people from everywhere.		2011-07-19 18:03:33	2011-07-19 18:03:33
+188				I would rather suffer myself than see someone else (a stranger) suffer.		2011-07-19 18:03:33	2011-07-19 18:03:33
+189				If given the opportunity, I am willing to sacrifice in order to let people from other places who are less fortunate achieve their goals.		2011-07-19 18:03:33	2011-07-19 18:03:33
+190				I tend to feel compassion for people, even though I do not know them.		2011-07-19 18:03:33	2011-07-19 18:03:33
+191				One of the activities that provides me with the most meaning to my life is helping others in the world when they need help.		2011-07-19 18:03:33	2011-07-19 18:03:33
+192				I would rather engage in actions that help others, even though they are strangers, than engage in actions that would help me.		2011-07-19 18:03:33	2011-07-19 18:03:33
+193				I often have tender feelings toward people (strangers) when they seem to be in need.		2011-07-19 18:03:33	2011-07-19 18:03:33
+194				I feel a selfless caring for most of humankind.		2011-07-19 18:03:33	2011-07-19 18:03:33
+195				I accept others whom I do not know even when they do things I think are wrong.		2011-07-19 18:03:33	2011-07-19 18:03:33
+196				If a person (a stranger) is troubled, I usually feel extreme tenderness and caring.		2011-07-19 18:03:33	2011-07-19 18:03:33
+197				I try to understand rather than judge people who are strangers to me.		2011-07-19 18:03:34	2011-07-19 18:03:34
+198				I try to put myself in a stranger's shoes when he or she is in trouble.		2011-07-19 18:03:34	2011-07-19 18:03:34
+199				I feel happy when I see that others (strangers) are happy.		2011-07-19 18:03:34	2011-07-19 18:03:34
+200				Those whom I encounter through my work and public life can assume that I will be there if they need me.		2011-07-19 18:03:34	2011-07-19 18:03:34
+201				I want to spend time with people I don't know well so that I can find ways to help enrich their lives.		2011-07-19 18:03:34	2011-07-19 18:03:34
+202				I very much wish to be kind and good to fellow human beings.		2011-07-19 18:03:34	2011-07-19 18:03:34
+203				I daydream and fantasize, with some regularity, about things that might happen to me.		2011-07-19 18:03:34	2011-07-19 18:03:34
+204				I often have tender, concerned feelings for people less fortunate than me.		2011-07-19 18:03:34	2011-07-19 18:03:34
+205				I sometimes find it difficult to see things from the "other guy's" point of view.		2011-07-19 18:03:34	2011-07-19 18:03:34
+206				Sometimes I don't feel very sorry for other people when they are having problems.		2011-07-19 18:03:34	2011-07-19 18:03:34
+207				I really get involved with the feelings of the characters in a novel.		2011-07-19 18:03:34	2011-07-19 18:03:34
+208				In emergency situations, I feel apprehensive and ill-at-ease.		2011-07-19 18:03:34	2011-07-19 18:03:34
+209				I am usually objective when I watch a movie or play, and I don't often get completely caught up in it.		2011-07-19 18:03:34	2011-07-19 18:03:34
+210				I try to look at everybody's side of a disagreement before I make a decision.		2011-07-19 18:03:34	2011-07-19 18:03:34
+211				When I see someone being taken advantage of, I feel kind of protective towards them.		2011-07-19 18:03:34	2011-07-19 18:03:34
+212				I sometimes feel helpless when I am in the middle of a very emotional situation.		2011-07-19 18:03:34	2011-07-19 18:03:34
+213				I sometimes try to understand my friends better by imagining how things look from their perspective.		2011-07-19 18:03:34	2011-07-19 18:03:34
+214				Becoming extremely involved in a good book or movie is somewhat rare for me.		2011-07-19 18:03:34	2011-07-19 18:03:34
+215				When I see someone get hurt, I tend to remain calm.		2011-07-19 18:03:34	2011-07-19 18:03:34
+216				Other people's misfortunes do not usually disturb me a great deal.		2011-07-19 18:03:34	2011-07-19 18:03:34
+217				If I'm sure I'm right about something, I don't waste much time listening to other people's arguments.		2011-07-19 18:03:34	2011-07-19 18:03:34
+218				After seeing a play or movie, I have felt as though I were one of the characters.		2011-07-19 18:03:34	2011-07-19 18:03:34
+219				Being in a tense emotional situation scares me.		2011-07-19 18:03:34	2011-07-19 18:03:34
+220				When I see someone being treated unfairly, I sometimes don't feel very much pity for them.		2011-07-19 18:03:34	2011-07-19 18:03:34
+221				I am usually pretty effective in dealing with emergencies.		2011-07-19 18:03:34	2011-07-19 18:03:34
+222				I am often quite touched by things that I see happen.		2011-07-19 18:03:34	2011-07-19 18:03:34
+223				I believe that there are two sides to every question and try to look at them both.		2011-07-19 18:03:34	2011-07-19 18:03:34
+224				I would describe myself as a pretty soft-hearted person.		2011-07-19 18:03:34	2011-07-19 18:03:34
+225				When I watch a good movie, I can very easily put myself in the place of a leading character.		2011-07-19 18:03:34	2011-07-19 18:03:34
+226				I tend to lose control during emergencies.		2011-07-19 18:03:34	2011-07-19 18:03:34
+227				When I'm upset at someone, I usually try to "put myself in his shoes" for a while.		2011-07-19 18:03:34	2011-07-19 18:03:34
+228				When I am reading an interesting story or novel, I imagine how I would feel if the events in the story were happening to me. (FS)		2011-07-19 18:03:34	2011-07-19 18:03:34
+229				When I see someone who badly needs help in an emergency, I go to pieces.		2011-07-19 18:03:34	2011-07-19 18:03:34
+230				Before criticizing somebody, I try to imagine how I would feel if I were in their place.		2011-07-19 18:03:34	2011-07-19 18:03:34
+231				I consider myself politically knowlegable and engaged		2011-07-19 18:03:34	2011-07-19 18:03:34
+232				I identify as a political conservative		2011-07-19 18:03:34	2011-07-19 18:03:34
+233				I identify as a political liberal		2011-07-19 18:03:34	2011-07-19 18:03:34
+234				I am not politically active		2011-07-19 18:03:34	2011-07-19 18:03:34
+235				I consider myself a Republican		2011-07-19 18:03:34	2011-07-19 18:03:34
+236				I consider myself a Democrat		2011-07-19 18:03:34	2011-07-19 18:03:34
+237				Religion should play an important role in a person's life.		2011-07-19 18:03:34	2011-07-19 18:03:34
+238				Religion is an important party of my identity		2011-07-19 18:03:34	2011-07-19 18:03:34
+239				I have a favorable view of Buddhists		2011-07-19 18:03:34	2011-07-19 18:03:34
+240				I am a little wary of Muslims		2011-07-19 18:03:34	2011-07-19 18:03:34
+241				I have conservative social values		2011-07-19 18:03:34	2011-07-19 18:03:34
+242				I have a negative perception of Jews and Judaism		2011-07-19 18:03:34	2011-07-19 18:03:34
+243				Going to church is very important to me		2011-07-19 18:03:34	2011-07-19 18:03:34
+244				Religion is a source of conflict in the world and we'd be better off if people were less religious		2011-07-19 18:03:34	2011-07-19 18:03:34
+245				People are ultimately responsible for their own state in life.		2011-07-19 18:03:34	2011-07-19 18:03:34
+246				Some people are born into a disadvantaged position and deserve special assistance.		2011-07-19 18:03:34	2011-07-19 18:03:34
+247				If someone is hard-working and determined, they can overcome any challenge		2011-07-19 18:03:34	2011-07-19 18:03:34
+248			likert	What is your level of household income?	< $10,000/$10,000 - $20,000/$20,000 - $30,000/$30,000 - $40,000/$40,000 - $50,000/$50,000 - $60,000/> $60,000	2011-07-19 18:03:34	2011-07-19 18:03:34
+249			likert	What is your level of education?	no high school/some high school/high school diploma/some college or specialized training/bachelor's degree/graduate degree	2011-07-19 18:03:34	2011-07-19 18:03:34
+250			likert	Imagine a ladder with 10 rungs which represents where people stand in the United States.  At the TOP of the ladder are the people who are the best off - those who have the most money, the most education, and most respected jobs.  At the BOTTOM of the ladder are the people who are the worst off - who have the least money, least education, and the least respected jobs or no job.  The higher up you are on this ladder, the closer you are to the people at the very top; the lower you are, the closer you are to the people at the very bottom.  Where would you place yourself on this ladder?	bottom rung////middle rung/////top rung	2011-07-19 18:03:34	2011-07-19 18:03:34
+251			likert	What is your father's level of education?	no high school/some high school/high school diploma/some college or specialized training/bachelor's degree/graduate degree	2011-07-19 18:03:34	2011-07-19 18:03:34
+252			likert	What is your mother's level of education?	no high school/some high school/high school diploma/some college or specialized training/bachelor's degree/graduate degree	2011-07-19 18:03:34	2011-07-19 18:03:34
+253				I feel tender towards this person		2011-07-19 18:03:34	2011-07-19 18:03:34
+254				I don’t care about this person.		2011-07-19 18:03:34	2011-07-19 18:03:34
+255				I feel emotionally connected to this person		2011-07-19 18:03:34	2011-07-19 18:03:34
+256				I feel distressed by this person's suffering		2011-07-19 18:03:34	2011-07-19 18:03:34
+257				This person's story does not upset me		2011-07-19 18:03:34	2011-07-19 18:03:34
+258				I feel guilty about this person’s suffering		2011-07-19 18:03:34	2011-07-19 18:03:34
+259				My interests and hobbies are similar to this person's interests and hobbies		2011-07-19 18:03:34	2011-07-19 18:03:34
+260				My joys and fears are different from this person's joy and fears		2011-07-19 18:03:34	2011-07-19 18:03:34
+261				My personal morals and values are similar to this person's morals and values		2011-07-19 18:03:34	2011-07-19 18:03:34
+262				My economic status is similar to this person's economic status		2011-07-19 18:03:34	2011-07-19 18:03:34
+263				My level of education is different from this person's level of education		2011-07-19 18:03:34	2011-07-19 18:03:34
+264				My position in society is similar to this person's position in society		2011-07-19 18:03:34	2011-07-19 18:03:34
+265				Having more money would not improve this person's situation		2011-07-19 18:03:34	2011-07-19 18:03:34
+266				If charities helping people in this situation had more money, they would be able to do a lot of good		2011-07-19 18:03:34	2011-07-19 18:03:34
+267				This person really needs help		2011-07-19 18:03:34	2011-07-19 18:03:34
+268				This person is responsible for their suffering		2011-07-19 18:03:34	2011-07-19 18:03:34
+269				I blame this person for their suffering		2011-07-19 18:03:34	2011-07-19 18:03:34
+270				This person's suffering is unjust or unfair		2011-07-19 18:03:34	2011-07-19 18:03:34
+271				I am inspired by this person's story		2011-07-19 18:03:34	2011-07-19 18:03:34
+272				I would like to meet this person in real life		2011-07-19 18:03:34	2011-07-19 18:03:34
+273				This person does not seem trustworthy		2011-07-19 18:03:34	2011-07-19 18:03:34
+274				I would be very likely to help this person if I had the opportunity		2011-07-19 18:03:34	2011-07-19 18:03:34
+275			likert	How much would you like to donate to a charity helping people like this?	$0/$0.10/$0.20/$0.30/$0.40/$0.50/$0.60/$0.70/$0.80/$0.90/$1.00	2011-07-19 18:03:34	2011-07-19 18:03:34
